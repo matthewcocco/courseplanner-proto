@@ -1,0 +1,1621 @@
+class_id,course_prefix,course_number,course_code,call_number,class_title
+acct2301.002.17s,acct,2301,ACCT 2301,24323,Introductory Financial Accounting 
+acct2302.004.17s,acct,2302,ACCT 2302,24460,Introductory Management Accounting 
+acct3100.001.17s,acct,3100,ACCT 3100,24462,Professional Development 
+acct3101.ppa.17s,acct,3101,ACCT 3101,26904,Professional Program in Accounting Lyceum 
+acct3322.001.17s,acct,3322,ACCT 3322,24334,Integrated Accounting Information Systems 
+acct3331.001.17s,acct,3331,ACCT 3331,24335,Intermediate Financial Accounting I 
+acct3332.001.17s,acct,3332,ACCT 3332,24637,Intermediate Financial Accounting II 
+acct3341.501.17s,acct,3341,ACCT 3341,24465,Cost Management Systems 
+acct3350.002.17s,acct,3350,ACCT 3350,24914,Fundamentals of Taxation 
+acct4301.001.17s,acct,4301,ACCT 4301,25247,Database Systems 
+acct4334.002.17s,acct,4334,ACCT 4334,24943,Auditing 
+acct4336.001.17s,acct,4336,ACCT 4336,24342,Financial Statement Analysis 
+acct4337.001.17s,acct,4337,ACCT 4337,25225,Business Valuation 
+acct4340.001.17s,acct,4340,ACCT 4340,25031,Survey of Accounting Software 
+acct4342.001.17s,acct,4342,ACCT 4342,24466,Analysis and Design of Accounting Systems 
+acct6201.0w1.17s,acct,6201,ACCT 6201,24330,Introduction to Financial Accounting 
+acct6202.0w1.17s,acct,6202,ACCT 6202,24331,Introduction to Managerial Accounting 
+acct6305.001.17s,acct,6305,ACCT 6305,25181,Accounting for Managers 
+acct6309.002.17s,acct,6309,ACCT 6309,24932,Business Data Warehousing 
+acct6312.501.17s,acct,6312,ACCT 6312,25243,Cybersecurity Fundamentals 
+acct6320.001.17s,acct,6320,ACCT 6320,24773,Database Foundations 
+acct6330.001.17s,acct,6330,ACCT 6330,24347,Intermediate Financial Accounting I 
+acct6331.0w1.17s,acct,6331,ACCT 6331,25034,Cost Accounting 
+acct6332.0w1.17s,acct,6332,ACCT 6332,26915,Intermediate Financial Accounting II 
+acct6333.501.17s,acct,6333,ACCT 6333,24351,Advanced Financial Reporting 
+acct6334.002.17s,acct,6334,ACCT 6334,24942,Auditing 
+acct6335.0w1.17s,acct,6335,ACCT 6335,24333,Ethics for Professional Accountants 
+acct6336.501.17s,acct,6336,ACCT 6336,24353,Information Technology Audit and Risk Management 
+acct6338.001.17s,acct,6338,ACCT 6338,25039,Accounting Systems Integration and Configuration 
+acct6340.001.17s,acct,6340,ACCT 6340,25129,System Analysis and Project Management 
+acct6343.0w1.17s,acct,6343,ACCT 6343,24957,Accounting Information Systems 
+acct6344.0w1.17s,acct,6344,ACCT 6344,24749,Financial Statement Analysis 
+acct6349.0w1.17s,acct,6349,ACCT 6349,24946,Information Technology Strategy and Management 
+acct6350.001.17s,acct,6350,ACCT 6350,24750,Fundamentals of Taxation I 
+acct6353.001.17s,acct,6353,ACCT 6353,24785,Fundamentals of Taxation II 
+acct6365.501.17s,acct,6365,ACCT 6365,25220,Governmental and Not-For-Profit Accounting 
+acct6367.501.17s,acct,6367,ACCT 6367,26918,Multijurisdictional Taxation 
+acct6370.001.17s,acct,6370,ACCT 6370,24752,Business Law 
+acct6373.001.17s,acct,6373,ACCT 6373,25041,Advanced External Auditing 
+acct6377.501.17s,acct,6377,ACCT 6377,24355,Corporate Governance 
+acct6380.501.17s,acct,6380,ACCT 6380,24356,Internal Audit 
+acct6382.001.17s,acct,6382,ACCT 6382,24357,Advanced Internal Auditing 
+acct6383.501.17s,acct,6383,ACCT 6383,25043,Fraud Examination 
+acct6384.501.17s,acct,6384,ACCT 6384,25219,Analytical Reviews Using Audit Software 
+acct6388.0w1.17s,acct,6388,ACCT 6388,24940,Accounting Communications 
+acct6389.501.17s,acct,6389,ACCT 6389,24753,Volunteer Income Tax Assistance Practicum 
+acct7324.001.17s,acct,7324,ACCT 7324,25044,Empirical Research in Financial Accounting 
+acn6160.001.17s,acn,6160,ACN 6160,21394,Neurobiology 
+acn6310.001.17s,acn,6310,ACN 6310,21056,Fundamentals of Functional Brain Imaging 
+acn6313.001.17s,acn,6313,ACN 6313,21236,Research Methods in Behavioral and Brain Sciences - Part II 
+acn6322.501.17s,acn,6322,ACN 6322,26765,Computational Modeling Methods for Language Understanding 
+acn6331.001.17s,acn,6331,ACN 6331,21481,Cognitive Development 
+acn6332.001.17s,acn,6332,ACN 6332,27257,Perception 
+acn6333.001.17s,acn,6333,ACN 6333,21332,Memory 
+acn6338.001.17s,acn,6338,ACN 6338,21058,Functional Neuroanatomy 
+acn6342.0w1.17s,acn,6342,ACN 6342,21362,Human Computer Interactions II 
+acn6348.5h1.17s,acn,6348,ACN 6348,26763,Neural Net Mathematics 
+acn6372.501.17s,acn,6372,ACN 6372,21472,The Neuroscience of Pain 
+acn6373.001.17s,acn,6373,ACN 6373,21057,Intraoperative Neurophysiological Monitoring I 
+acn6395.001.17s,acn,6395,ACN 6395,26959,Cognitive Psychology 
+acn6v71.091.17s,acn,6v71,ACN 6v71,21442,Industry Internship 
+acn6v72.013.17s,acn,6v72,ACN 6v72,21060,Research Internship 
+acn7343.001.17s,acn,7343,ACN 7343,21406,Neuropharmacology 
+acts4301.001.17s,acts,4301,ACTS 4301,26054,Principles of Actuarial Models: Life Contingencies I 
+acts4304.001.17s,acts,4304,ACTS 4304,26085,Construction and Evaluation of Actuarial Models 
+acts6302.001.17s,acts,6302,ACTS 6302,26522,Theory of Actuarial Models: Financial Economics 
+acts6303.501.17s,acts,6303,ACTS 6303,26481,Theory of Actuarial Models: Life Contingencies II 
+acts6305.501.17s,acts,6305,ACTS 6305,26482,Construction and Evaluation of Actuarial Models II 
+acts6308.001.17s,acts,6308,ACTS 6308,26845,Actuarial Financial Mathematics 
+aero1040.001.17s,aero,1040,AERO 1040,27636,foundation of the usaf
+aero2040.002.17s,aero,2040,AERO 2040,27640,evol/usaf air & space power
+aero2920.001.17s,aero,2920,AERO 2920,27644,coop ed aerospace studies
+aero3320.001.17s,aero,3320,AERO 3320,27646,leadership studies
+aero4320.002.17s,aero,4320,AERO 4320,27649,national security affairs
+aero4920.001.17s,aero,4920,AERO 4920,27645,coop ed aerospace studies
+ahst1303.001.17s,ahst,1303,AHST 1303,20044,Survey of Western Art History: Ancient to Medieval 
+ahst2331.001.17s,ahst,2331,AHST 2331,20045,Understanding Art 
+ahst3316.001.17s,ahst,3316,AHST 3316,20497,The Art of the Baroque 
+ahst3320.001.17s,ahst,3320,AHST 3320,27601,Art in Historical Context 
+ahst3322.001.17s,ahst,3322,AHST 3322,27179,Modern Architecture 
+ahst4342.001.17s,ahst,4342,AHST 4342,27580,Topics in Art History 
+ams2300.hn1.17s,ams,2300,AMS 2300,24099,American Popular Culture 
+ams2341.001.17s,ams,2341,AMS 2341,27666,American Studies for the Twenty-First Century 
+ams3302.501.17s,ams,3302,AMS 3302,24001,American Cultures 
+ams3316.001.17s,ams,3316,AMS 3316,24093,Interpersonal Communication 
+ams3350.001.17s,ams,3350,AMS 3350,24042,Crisis Communication 
+ams4300.001.17s,ams,4300,AMS 4300,24053,Oral and Written Communication for the Classroom 
+ams4305.001.17s,ams,4305,AMS 4305,24002,World History for Teachers 
+ams4385.0w1.17s,ams,4385,AMS 4385,24109,Professional Communications in Business 
+ap3300.001.17s,ap,3300,AP 3300,20046,Elements of Art and Performance 
+ap3340.001.17s,ap,3340,AP 3340,20499,Writing in the Arts 
+arab1311.001.17s,arab,1311,ARAB 1311,20197,Beginning Arabic I 
+arab1312.001.17s,arab,1312,ARAB 1312,20006,Beginning Arabic II 
+arab2311.501.17s,arab,2311,ARAB 2311,20568,Intermediate Arabic I 
+arhm2340.001.17s,arhm,2340,ARHM 2340,27529,Creativity 
+arhm2342.501.17s,arhm,2342,ARHM 2342,27831,Connections in the Arts and Humanities 
+arhm3342.502.17s,arhm,3342,ARHM 3342,27433,Advanced Interdisciplinary Studies in the Arts and Humanities 
+arts1301.001.17s,arts,1301,ARTS 1301,20047,Exploration of the Arts 
+arts1316.001.17s,arts,1316,ARTS 1316,20198,Drawing Foundations 
+arts2316.001.17s,arts,2316,ARTS 2316,20202,Painting Foundations 
+arts2350.001.17s,arts,2350,ARTS 2350,20049,Photography: Design Basics 
+arts2380.004.17s,arts,2380,ARTS 2380,20385,2D Design Foundations 
+arts2381.001.17s,arts,2381,ARTS 2381,20312,Introduction to Sculpture 
+arts3340.001.17s,arts,3340,ARTS 3340,27807,Topics in Studio Art 
+arts3341.001.17s,arts,3341,ARTS 3341,27718,Chinese Calligraphy 
+arts3363.001.17s,arts,3363,ARTS 3363,20208,"Typography, Technology, Image "
+arts3367.501.17s,arts,3367,ARTS 3367,20503,Figure Drawing 
+arts3368.001.17s,arts,3368,ARTS 3368,20210,Mixed Media 
+arts3369.001.17s,arts,3369,ARTS 3369,20050,Intermediate Painting 
+arts3371.001.17s,arts,3371,ARTS 3371,20211,Photography: Black/White 
+arts3372.001.17s,arts,3372,ARTS 3372,20212,Photography: Color 
+arts3373.001.17s,arts,3373,ARTS 3373,20051,Printmaking 
+arts3378.001.17s,arts,3378,ARTS 3378,20332,Figure Sculpture 
+arts3379.001.17s,arts,3379,ARTS 3379,20313,Photography: New Media 
+arts3381.001.17s,arts,3381,ARTS 3381,20333,Video Painting 
+arts4308.001.17s,arts,4308,ARTS 4308,20374,Image/Text 
+arts4310.601.17s,arts,4310,ARTS 4310,20504,Studies in Contemporary Exhibitions 
+arts4366.001.17s,arts,4366,ARTS 4366,20209,Advanced Drawing 
+arts4368.001.17s,arts,4368,ARTS 4368,20214,Advanced Visual Arts 
+arts4372.001.17s,arts,4372,ARTS 4372,20505,Advanced Photography 
+atec2325.501.17s,atec,2325,ATEC 2325,20789,Game Design Fundamentals 
+atec2326.001.17s,atec,2326,ATEC 2326,20767,Computer Animation Processes 
+atec2340.001.17s,atec,2340,ATEC 2340,27251,Project Management for Arts and Technology I 
+atec2382.001.17s,atec,2382,ATEC 2382,20745,Computer Imaging 
+atec2384.001.17s,atec,2384,ATEC 2384,20746,Design I 
+atec2385.001.17s,atec,2385,ATEC 2385,20748,Sound Design 
+atec3315.001.17s,atec,3315,ATEC 3315,20867,Motion Graphics 
+atec3317.501.17s,atec,3317,ATEC 3317,27838,Modeling and Texturing I 
+atec3320.001.17s,atec,3320,ATEC 3320,20774,Digital Content Design 
+atec3324.001.17s,atec,3324,ATEC 3324,20851,Computer Modeling for Digital Fabrication 
+atec3325.001.17s,atec,3325,ATEC 3325,20749,Computer Mediated Communication 
+atec3327.001.17s,atec,3327,ATEC 3327,20750,Lighting and Composition I 
+atec3328.002.17s,atec,3328,ATEC 3328,20769,Rigging I 
+atec3329.001.17s,atec,3329,ATEC 3329,27291,Tools Development for Arts and Technology 
+atec3330.002.17s,atec,3330,ATEC 3330,27269,Digital Video Production I 
+atec3336.003.17s,atec,3336,ATEC 3336,20894,Computer Animation I 
+atec3346.002.17s,atec,3346,ATEC 3346,27278,Storytelling for New Media I 
+atec3351.004.17s,atec,3351,ATEC 3351,20898,Game Design I 
+atec3352.501.17s,atec,3352,ATEC 3352,27287,User Experience Design for Games I 
+atec3353.501.17s,atec,3353,ATEC 3353,20770,Game Studies I 
+atec3355.001.17s,atec,3355,ATEC 3355,20855,Scripting for Games I 
+atec3356.001.17s,atec,3356,ATEC 3356,20854,Games and Narrative I 
+atec3361.002.17s,atec,3361,ATEC 3361,20772,Internet Studio I 
+atec3363.001.17s,atec,3363,ATEC 3363,20751,Interaction Design I 
+atec3364.501.17s,atec,3364,ATEC 3364,20792,Level Design I 
+atec3365.501.17s,atec,3365,ATEC 3365,27840,Virtual Environments 
+atec3370.002.17s,atec,3370,ATEC 3370,27183,Topics in Art and Technology 
+atec3384.001.17s,atec,3384,ATEC 3384,27244,Design II 
+atec4310.001.17s,atec,4310,ATEC 4310,27895,Digital Audio Processing 
+atec4312.001.17s,atec,4312,ATEC 4312,27268,Audio Productions Lab II 
+atec4330.501.17s,atec,4330,ATEC 4330,20786,Digital Video Production II 
+atec4336.001.17s,atec,4336,ATEC 4336,20810,Computer Animation II 
+atec4340.001.17s,atec,4340,ATEC 4340,27288,Project Management for Arts and Technology II 
+atec4345.001.17s,atec,4345,ATEC 4345,20827,Motion Capture Animation 
+atec4347.501.17s,atec,4347,ATEC 4347,20755,Design Innovation Workshop 
+atec4348.001.17s,atec,4348,ATEC 4348,20868,Modeling and Texturing II 
+atec4349.001.17s,atec,4349,ATEC 4349,20828,Lighting and Composition II 
+atec4350.001.17s,atec,4350,ATEC 4350,20753,Game Production Lab I 
+atec4352.001.17s,atec,4352,ATEC 4352,20829,Animation Studio II 
+atec4356.001.17s,atec,4356,ATEC 4356,20879,Computer Animation III 
+atec4357.001.17s,atec,4357,ATEC 4357,27813,Strategic Design 
+atec4361.001.17s,atec,4361,ATEC 4361,20830,Internet Studio II 
+atec4367.001.17s,atec,4367,ATEC 4367,20778,Game Design II 
+atec4370.001.17s,atec,4370,ATEC 4370,27292,Special Topics in Arts and Technology 
+atec4371.501.17s,atec,4371,ATEC 4371,20891,Topics in Animation 
+atec4373.001.17s,atec,4373,ATEC 4373,20812,Topics in Game Development 
+atec4374.501.17s,atec,4374,ATEC 4374,27254,Topics in Digital Design 
+atec4375.002.17s,atec,4375,ATEC 4375,20831,Topics in Sound Design 
+atec4380.001.17s,atec,4380,ATEC 4380,20864,Capstone Project 
+atec4381.001.17s,atec,4381,ATEC 4381,27296,Senior Seminar 
+atec6300.001.17s,atec,6300,ATEC 6300,27842,Interdisciplinary Approaches to Arts and Technology 
+atec6335.001.17s,atec,6335,ATEC 6335,27988,Research in Sound Design 
+atec6342.001.17s,atec,6342,ATEC 6342,27843,Game Studies 
+atec6344.501.17s,atec,6344,ATEC 6344,20872,History and Culture of Interactive Media 
+atec6345.001.17s,atec,6345,ATEC 6345,20709,Game Production Lab 
+atec6351.001.17s,atec,6351,ATEC 6351,20698,Digital Arts 
+atec6353.501.17s,atec,6353,ATEC 6353,27305,Visualization Research 
+atec6361.501.17s,atec,6361,ATEC 6361,20856,Creating Interactive Media 
+atec6363.501.17s,atec,6363,ATEC 6363,20841,Creative Automata 
+atec6383.001.17s,atec,6383,ATEC 6383,20686,Special Topics in Sound Design 
+atec6389.002.17s,atec,6389,ATEC 6389,27301,Topics in Arts and Technology 
+aud6113.001.17s,aud,6113,AUD 6113,21339,Grand Rounds 
+aud6306.001.17s,aud,6306,AUD 6306,21061,Speech Science 
+aud6311.001.17s,aud,6311,AUD 6311,21062,Diagnostic Audiology 
+aud6318.001.17s,aud,6318,AUD 6318,21063,Pediatric Audiology 
+aud6v20.101.17s,aud,6v20,AUD 6v20,21364,Laboratory Procedures in Audiology and Hearing Science 
+aud7182.001.17s,aud,7182,AUD 7182,21237,Issues in Mentoring and Counseling 
+aud7228.001.17s,aud,7228,AUD 7228,21307,Hearing Loss Prevention 
+aud7280.064.17s,aud,7280,AUD 7280,21338,Doctoral Practicum in Audiology 
+aud7321.001.17s,aud,7321,AUD 7321,21064,Theories of Amplification 
+aud7351.501.17s,aud,7351,AUD 7351,21361,Physiologic Assessment of Vestibular System 
+aud7353.001.17s,aud,7353,AUD 7353,21065,Clinical Electrophysiology 
+aud7v82.001.17s,aud,7v82,AUD 7v82,26838,Special Topics in Hearing Science and Audiology 
+ba3100.003.17s,ba,3100,BA 3100,24835,Professional Development 
+ba4101.001.17s,ba,4101,BA 4101,24658,Careers in Management 
+bcom3100.001.17s,bcom,3100,BCOM 3100,24899,Professional Development 
+bcom3310.002.17s,bcom,3310,BCOM 3310,24936,Business Communication 
+bcom4350.010.17s,bcom,4350,BCOM 4350,25085,Advanced Business Communication 
+biol1318.001.17s,biol,1318,BIOL 1318,25783,Human Genetics 
+biol1v00.pa2.17s,biol,1v00,BIOL 1v00,26527,Topics in Biological Sciences 
+biol2111.001.17s,biol,2111,BIOL 2111,25779,Introduction to Modern Biology Workshop I 
+biol2112.001.17s,biol,2112,BIOL 2112,25784,Introduction to Modern Biology Workshop II 
+biol2281.308.17s,biol,2281,BIOL 2281,26078,Introductory Biology Laboratory 
+biol2311.001.17s,biol,2311,BIOL 2311,25835,Introduction to Modern Biology I 
+biol2312.001.17s,biol,2312,BIOL 2312,25792,Introduction to Modern Biology II 
+biol2350.002.17s,biol,2350,BIOL 2350,26437,Biological Basis of Health and Disease 
+biol3101.001.17s,biol,3101,BIOL 3101,25794,Classical and Molecular Genetics Workshop 
+biol3102.001.17s,biol,3102,BIOL 3102,25802,Eukaryotic Molecular and Cell Biology Workshop 
+biol3161.007.17s,biol,3161,BIOL 3161,26308,Biochemistry Workshop I 
+biol3162.001.17s,biol,3162,BIOL 3162,25814,Biochemistry Workshop II 
+biol3301.001.17s,biol,3301,BIOL 3301,25822,Classical and Molecular Genetics 
+biol3302.001.17s,biol,3302,BIOL 3302,25823,Eukaryotic Molecular and Cell Biology 
+biol3318.001.17s,biol,3318,BIOL 3318,26198,Forensic Biology 
+biol3351.001.17s,biol,3351,BIOL 3351,26408,Medical Cell Biology 
+biol3361.001.17s,biol,3361,BIOL 3361,25824,Biochemistry I 
+biol3362.001.17s,biol,3362,BIOL 3362,25825,Biochemistry II 
+biol3370.001.17s,biol,3370,BIOL 3370,25826,Exercise Physiology 
+biol3380.001.17s,biol,3380,BIOL 3380,26358,Biochemistry Laboratory 
+biol3388.001.17s,biol,3388,BIOL 3388,27803,Honey Bee Biology 
+biol3455.301.17s,biol,3455,BIOL 3455,26027,Human Anatomy and Physiology with Lab I 
+biol3456.302.17s,biol,3456,BIOL 3456,26086,Human Anatomy and Physiology with Lab II 
+biol3520.001.17s,biol,3520,BIOL 3520,27795,General Microbiology with Lab 
+biol3v00.001.17s,biol,3v00,BIOL 3v00,27827,Topics in Biological Sciences 
+biol3v84.pac.17s,biol,3v84,BIOL 3v84,26529,Clinical Medicine IV 
+biol4310.001.17s,biol,4310,BIOL 4310,26170,Cellular Microbiology 
+biol4320.001.17s,biol,4320,BIOL 4320,26406,Cell Migration in Health and Disease 
+biol4345.001.17s,biol,4345,BIOL 4345,25829,Immunobiology 
+biol4350.001.17s,biol,4350,BIOL 4350,25830,Medical Microbiology 
+biol4360.001.17s,biol,4360,BIOL 4360,26409,Evolution and Development 
+biol4371.001.17s,biol,4371,BIOL 4371,27700,General and Molecular Virology 
+biol4380.304.17s,biol,4380,BIOL 4380,26173,Cell and Molecular Biology Laboratory 
+biol4385.001.17s,biol,4385,BIOL 4385,26567,Oral Histology and Embryology 
+biol4461.001.17s,biol,4461,BIOL 4461,25860,Biophysical Chemistry 
+biol4v00.001.17s,biol,4v00,BIOL 4v00,26665,Special Topics in Biology 
+biol4v01.001.17s,biol,4v01,BIOL 4v01,26439,Topics in Biological Sciences with Lab 
+biol4v40.001.17s,biol,4v40,BIOL 4v40,27829,Special Topics in Molecular and Cell Biology 
+biol4v95.pac.17s,biol,4v95,BIOL 4v95,26530,Advanced Topics in Biology 
+biol5381.001.17s,biol,5381,BIOL 5381,25873,Genomics 
+biol5410.001.17s,biol,5410,BIOL 5410,26265,Biochemistry 
+biol5440.001.17s,biol,5440,BIOL 5440,25874,Cell Biology 
+biol5v95.001.17s,biol,5v95,BIOL 5v95,26470,Advanced Topics in Molecular and Cell Biology: Individual Instruction 
+biol6252.001.17s,biol,6252,BIOL 6252,25875,Current Research in Molecular Biology 
+biol6315.001.17s,biol,6315,BIOL 6315,26864,Epigenetics 
+biol6331.001.17s,biol,6331,BIOL 6331,26599,Molecular Genetics 
+biol6333.001.17s,biol,6333,BIOL 6333,26671,"Macromolecules: Structure, Function, and Dynamics "
+biol6337.001.17s,biol,6337,BIOL 6337,26172,Regulation of Gene Expression 
+biol6351.001.17s,biol,6351,BIOL 6351,25876,Cellular and Molecular Biology of the Immune System 
+biol6352.001.17s,biol,6352,BIOL 6352,25877,Modern Biochemistry I 
+biol6353.001.17s,biol,6353,BIOL 6353,25878,Modern Biochemistry II 
+biol6356.001.17s,biol,6356,BIOL 6356,25879,Eukaryotic Molecular and Cell Biology 
+biol6360.001.17s,biol,6360,BIOL 6360,26165,Medical Cell Biology for Biotechnology 
+biol6384.001.17s,biol,6384,BIOL 6384,25880,Biotechnology Laboratory 
+biol6385.001.17s,biol,6385,BIOL 6385,26080,Computational Biology 
+biol6v02.001.17s,biol,6v02,BIOL 6v02,25778,The Art of Scientific Presentation 
+biol6v50.017.17s,biol,6v50,BIOL 6v50,26268,Internship in Biotechnology/Biomedicine 
+bis3190.0w2.17s,bis,3190,BIS 3190,24049,Library Research Skills 
+bis3320.501.17s,bis,3320,BIS 3320,24005,The Nature of Intellectual Inquiry 
+bis4306.0w1.17s,bis,4306,BIS 4306,24037,Strategies for Diversity in Education 
+bis4310.091.17s,bis,4310,BIS 4310,24083,Co-op Education 
+bis4v02.011.17s,bis,4v02,BIS 4v02,24131,Independent Study 
+bis4v04.096.17s,bis,4v04,BIS 4v04,24126,Internship 
+blaw2301.001.17s,blaw,2301,BLAW 2301,24471,Business and Public Law 
+blaw4310.001.17s,blaw,4310,BLAW 4310,24732,Current Issues in Business and Law 
+bmen1208.111.17s,bmen,1208,BMEN 1208,27719,Introduction to Bioengineering II 
+bmen2320.001.17s,bmen,2320,BMEN 2320,22935,Statics 
+bmen3130.106.17s,bmen,3130,BMEN 3130,27325,Engineering Physiology Laboratory 
+bmen3150.103.17s,bmen,3150,BMEN 3150,22776,Biomedical Engineering Laboratory 
+bmen3315.001.17s,bmen,3315,BMEN 3315,22894,Thermodynamics and Physical Chemistry in Biomedical Engineering 
+bmen3330.001.17s,bmen,3330,BMEN 3330,22712,Engineering Physiology of the Human Body 
+bmen3350.001.17s,bmen,3350,BMEN 3350,22713,Biomedical Component and System Design 
+bmen3370.001.17s,bmen,3370,BMEN 3370,22897,Digital Circuits 
+bmen3399.003.17s,bmen,3399,BMEN 3399,27431,Introductory Biomechanics 
+bmen4330.001.17s,bmen,4330,BMEN 4330,22981,Advanced Engineering Physiology of the Human Body 
+bmen4360.002.17s,bmen,4360,BMEN 4360,27434,Biomaterials and Medical Devices 
+bmen4389.003.17s,bmen,4389,BMEN 4389,23191,Senior Design Project II 
+bmen4v95.001.17s,bmen,4v95,BMEN 4v95,23053,Undergraduate Topics in Biomedical Engineering 
+bmen6302.001.17s,bmen,6302,BMEN 6302,27143,Dynamics of Complex Networks and Systems 
+bmen6342.001.17s,bmen,6342,BMEN 6342,27690,Biomaterials and Medical Devices 
+bmen6345.001.17s,bmen,6345,BMEN 6345,23000,Self-Assembly of Biomaterials 
+bmen6355.001.17s,bmen,6355,BMEN 6355,22904,Nanotechnology and Sensors 
+bmen6372.001.17s,bmen,6372,BMEN 6372,22670,Engineering Systems: Modeling and Simulation 
+bmen6375.001.17s,bmen,6375,BMEN 6375,22351,Techniques in Cell and Molecular Biology 
+bmen6382.001.17s,bmen,6382,BMEN 6382,22301,Systems Biology 
+bmen6388.001.17s,bmen,6388,BMEN 6388,22997,Nonlinear Systems 
+bmen6389.001.17s,bmen,6389,BMEN 6389,22396,Computational Biology 
+bmen6394.001.17s,bmen,6394,BMEN 6394,27322,Medical Imaging Techniques and Image Processing 
+bmen6v40.020.17s,bmen,6v40,BMEN 6v40,22949,Individual Instruction in Biomedical Engineering 
+bmen6v87.501.17s,bmen,6v87,BMEN 6v87,27528,Special Topics in Biomedical Engineering 
+bmen7188.001.17s,bmen,7188,BMEN 7188,23052,Advanced Seminars in Biomedical Engineering 
+bmen7v87.001.17s,bmen,7v87,BMEN 7v87,27323,Advanced Topics in Biomedical Engineering 
+bps4305.5e1.17s,bps,4305,BPS 4305,25086,Strategic Management 
+bps6310.0w1.17s,bps,6310,BPS 6310,24482,Strategic Management 
+bps6311.0w1.17s,bps,6311,BPS 6311,24903,Strategy Implementation 
+bps6360.501.17s,bps,6360,BPS 6360,24484,Management and Organizational Consulting: Theory and Practice 
+bps7301.001.17s,bps,7301,BPS 7301,27845,Advanced Strategic Management Seminar II 
+buan6312.001.17s,buan,6312,BUAN 6312,25245,Applied Econometrics and Time Series Analysis 
+buan6320.501.17s,buan,6320,BUAN 6320,27016,Database Foundations 
+buan6324.001.17s,buan,6324,BUAN 6324,25202,Business Analytics With SAS 
+buan6335.001.17s,buan,6335,BUAN 6335,27132,Organizing for Business Analytics: A Systems Approach 
+buan6337.002.17s,buan,6337,BUAN 6337,25241,Marketing Predictive Analytics Using SAS 
+buan6345.001.17s,buan,6345,BUAN 6345,27019,High Performance Analytics 
+buan6346.001.17s,buan,6346,BUAN 6346,27421,Big Data Analytics 
+buan6356.502.17s,buan,6356,BUAN 6356,27022,Business Analytics With R 
+buan6390.001.17s,buan,6390,BUAN 6390,25134,Analytics Practicum 
+buan6398.501.17s,buan,6398,BUAN 6398,25240,Prescriptive Analytics 
+buan6v98.001.17s,buan,6v98,BUAN 6v98,25260,Business Analytics Internship 
+ce1202.004.17s,ce,1202,CE 1202,27100,Introduction to Electrical Engineering II 
+ce1337.010.17s,ce,1337,CE 1337,27382,Computer Science I 
+ce2305.003.17s,ce,2305,CE 2305,27386,Discrete Mathematics for Computing I 
+ce2310.001.17s,ce,2310,CE 2310,22099,Introduction to Digital Systems 
+ce2336.501.17s,ce,2336,CE 2336,22634,Computer Science II 
+ce3101.101.17s,ce,3101,CE 3101,22434,Electrical Network Analysis Laboratory 
+ce3102.101.17s,ce,3102,CE 3102,22449,Signals and Systems Laboratory 
+ce3110.102.17s,ce,3110,CE 3110,22104,Electronic Devices Laboratory 
+ce3111.101.17s,ce,3111,CE 3111,22111,Electronic Circuits Laboratory 
+ce3120.101.17s,ce,3120,CE 3120,22121,Digital Circuits Laboratory 
+ce3301.001.17s,ce,3301,CE 3301,22464,Electrical Network Analysis 
+ce3302.001.17s,ce,3302,CE 3302,22470,Signals and Systems 
+ce3310.001.17s,ce,3310,CE 3310,22136,Electronic Devices 
+ce3311.001.17s,ce,3311,CE 3311,22140,Electronic Circuits 
+ce3320.001.17s,ce,3320,CE 3320,22144,Digital Circuits 
+ce3345.005.17s,ce,3345,CE 3345,27398,Data Structures and Introduction to Algorithmic Analysis 
+ce3354.001.17s,ce,3354,CE 3354,22540,Software Engineering 
+ce4304.001.17s,ce,4304,CE 4304,22717,Computer Architecture 
+ce4337.001.17s,ce,4337,CE 4337,22529,Organization of Programming Languages 
+ce4348.001.17s,ce,4348,CE 4348,23199,Operating Systems Concepts 
+ce4370.001.17s,ce,4370,CE 4370,22699,Embedded Microprocessor Systems 
+ce4388.502.17s,ce,4388,CE 4388,22477,Senior Design Project I 
+ce4389.501.17s,ce,4389,CE 4389,22482,Senior Design Project II 
+ce4390.002.17s,ce,4390,CE 4390,22513,Computer Networks 
+ce6301.001.17s,ce,6301,CE 6301,22647,Advanced Digital Logic 
+ce6302.303.17s,ce,6302,CE 6302,27125,Microprocessor Systems 
+ce6303.501.17s,ce,6303,CE 6303,22715,Testing and Testable Design 
+ce6304.501.17s,ce,6304,CE 6304,22492,Computer Architecture 
+ce6308.001.17s,ce,6308,CE 6308,22537,Real-Time Systems 
+ce6324.001.17s,ce,6324,CE 6324,22694,Information Security 
+ce6325.001.17s,ce,6325,CE 6325,22702,VLSI Design 
+ce6352.001.17s,ce,6352,CE 6352,22530,Performance of Computer Systems and Networks 
+ce6363.004.17s,ce,6363,CE 6363,27377,Design and Analysis of Computer Algorithms 
+ce6367.001.17s,ce,6367,CE 6367,23226,"Software Testing, Validation and Verification "
+ce6378.001.17s,ce,6378,CE 6378,22531,Advanced Operating Systems 
+ce6380.002.17s,ce,6380,CE 6380,27619,Distributed Computing 
+ce6390.001.17s,ce,6390,CE 6390,22959,Advanced Computer Networks 
+ce6392.001.17s,ce,6392,CE 6392,27621,Mobile Computing Systems 
+ce7v80.001.17s,ce,7v80,CE 7v80,22705,Special Topics in Computer Engineering 
+cgs2301.hn1.17s,cgs,2301,CGS 2301,21359,Cognitive Science 
+cgs3325.001.17s,cgs,3325,CGS 3325,21067,Historical Perspectives on Psychology: Mind and Machines since 1600 
+cgs3340.002.17s,cgs,3340,CGS 3340,21300,Experimental Projects in Cognitive Science 
+cgs3361.501.17s,cgs,3361,CGS 3361,21068,Cognitive Psychology 
+cgs4313.5h1.17s,cgs,4313,CGS 4313,26768,Neural Net Mathematics 
+cgs4353.001.17s,cgs,4353,CGS 4353,21389,Human Computer Interactions II 
+cgs4359.001.17s,cgs,4359,CGS 4359,21464,Cognitive Neuroscience 
+cgs4375.001.17s,cgs,4375,CGS 4375,21494,Honors Seminar 
+cgs4394.001.17s,cgs,4394,CGS 4394,21304,Internship in Cognitive Science 
+cgs4395.001.17s,cgs,4395,CGS 4395,21299,Co-op Fieldwork 
+chem1111.101.17s,chem,1111,CHEM 1111,25705,General Chemistry Laboratory I 
+chem1112.101.17s,chem,1112,CHEM 1112,25709,General Chemistry Laboratory II 
+chem1116.hn1.17s,chem,1116,CHEM 1116,27207,Honors Freshman Chemistry Laboratory II 
+chem1311.001.17s,chem,1311,CHEM 1311,25719,General Chemistry I 
+chem1312.001.17s,chem,1312,CHEM 1312,25720,General Chemistry II 
+chem1316.hn1.17s,chem,1316,CHEM 1316,27208,Honors Freshman Chemistry II 
+chem2123.101.17s,chem,2123,CHEM 2123,25725,Introductory Organic Chemistry Laboratory I 
+chem2125.101.17s,chem,2125,CHEM 2125,25728,Introductory Organic Chemistry Laboratory II 
+chem2128.hn1.17s,chem,2128,CHEM 2128,27209,Honors Organic Chemistry Laboratory II 
+chem2323.001.17s,chem,2323,CHEM 2323,25735,Introductory Organic Chemistry I 
+chem2324.001.17s,chem,2324,CHEM 2324,27817,Introductory Organic Chemistry for Engineers 
+chem2325.001.17s,chem,2325,CHEM 2325,25736,Introductory Organic Chemistry II 
+chem2328.hn1.17s,chem,2328,CHEM 2328,27210,Honors Organic Chemistry II 
+chem2401.002.17s,chem,2401,CHEM 2401,26022,Introductory Quantitative Methods in Chemistry 
+chem3322.001.17s,chem,3322,CHEM 3322,27190,Physical Chemistry II 
+chem3361.001.17s,chem,3361,CHEM 3361,25739,Biochemistry I 
+chem3362.001.17s,chem,3362,CHEM 3362,25916,Biochemistry II 
+chem3471.001.17s,chem,3471,CHEM 3471,26126,Advanced Chemical Synthesis Laboratory 
+chem3472.001.17s,chem,3472,CHEM 3472,25740,Instrumental Analysis 
+chem3v92.037.17s,chem,3v92,CHEM 3v92,26733,Undergraduate Research in Biochemistry 
+chem4335.001.17s,chem,4335,CHEM 4335,25742,Polymer Chemistry 
+chem4473.001.17s,chem,4473,CHEM 4473,25743,Physical Measurements Laboratory 
+chem5341.001.17s,chem,5341,CHEM 5341,25744,Advanced Inorganic Chemistry I 
+chem5355.001.17s,chem,5355,CHEM 5355,27199,Analytical Techniques I 
+chem5361.501.17s,chem,5361,CHEM 5361,27201,Advanced Biochemistry 
+chem6100.001.17s,chem,6100,CHEM 6100,26053,Chemistry Department Seminar 
+chem6383.001.17s,chem,6383,CHEM 6383,27203,Computational Chemistry 
+chem6v79.001.17s,chem,6v79,CHEM 6v79,27204,Special Topics in Materials Chemistry 
+chin1311.002.17s,chin,1311,CHIN 1311,20315,Beginning Chinese I 
+chin1312.001.17s,chin,1312,CHIN 1312,20052,Beginning Chinese II 
+chin2311.001.17s,chin,2311,CHIN 2311,20053,Intermediate Chinese I 
+chin2312.001.17s,chin,2312,CHIN 2312,20336,Intermediate Chinese II 
+cldp2314.001.17s,cldp,2314,CLDP 2314,21074,Lifespan Development 
+cldp3303.001.17s,cldp,3303,CLDP 3303,21069,Normal Language Development 
+cldp3305.001.17s,cldp,3305,CLDP 3305,21262,Language and Literacy Development 
+cldp3310.002.17s,cldp,3310,CLDP 3310,27659,Child Development 
+cldp3332.001.17s,cldp,3332,CLDP 3332,21419,Social and Personality Development 
+cldp3338.001.17s,cldp,3338,CLDP 3338,21070,Adolescence 
+cldp3339.0h1.17s,cldp,3339,CLDP 3339,21071,Educational Psychology 
+cldp3342.501.17s,cldp,3342,CLDP 3342,21072,Exceptional Children 
+cldp3362.001.17s,cldp,3362,CLDP 3362,21073,Cognitive Development 
+cldp3394.001.17s,cldp,3394,CLDP 3394,21488,Research and Evaluation Methods 
+cldp4308.001.17s,cldp,4308,CLDP 4308,21264,Language Disorders in Children 
+cldp4344.001.17s,cldp,4344,CLDP 4344,21407,Child Psychopathology 
+cldp4375.001.17s,cldp,4375,CLDP 4375,21491,Honors Seminar 
+cldp4394.001.17s,cldp,4394,CLDP 4394,21075,Internship 
+cldp4395.001.17s,cldp,4395,CLDP 4395,21076,Co-op Fieldwork 
+comd5341.0w1.17s,comd,5341,COMD 5341,21395,Audiology 
+comd5344.001.17s,comd,5344,COMD 5344,21077,Anatomy and Physiology of Speech and Hearing 
+comd6111.0w1.17s,comd,6111,COMD 6111,21428,Articulation and Phonological Disorders 
+comd6222.001.17s,comd,6222,COMD 6222,21078,Stuttering 
+comd6240.001.17s,comd,6240,COMD 6240,21469,Professional Issues in Speech/Language Pathology 
+comd6307.001.17s,comd,6307,COMD 6307,21280,Language Acquisition 
+comd6308.001.17s,comd,6308,COMD 6308,21510,Assessment and Intervention of Language Impairments in Preschool and School-Age Children 
+comd6320.001.17s,comd,6320,COMD 6320,21079,Motor Speech Disorders 
+comd6377.001.17s,comd,6377,COMD 6377,21080,Neurogenic Communication Disorders I 
+comd6378.001.17s,comd,6378,COMD 6378,21081,Neurogenic Communication Disorders II 
+comd7207.001.17s,comd,7207,COMD 7207,21085,Advanced Topics in Dysphagia 
+comd7208.501.17s,comd,7208,COMD 7208,21429,Pediatric Dysphagia 
+comd7221.001.17s,comd,7221,COMD 7221,21385,Preschool Intervention 
+comd7301.501.17s,comd,7301,COMD 7301,21086,Public School Methods 
+comd7302.001.17s,comd,7302,COMD 7302,21087,Seminar in Aphasiology 
+comd7304.001.17s,comd,7304,COMD 7304,21458,Seminar in Bilingual Speech-Language Pathology: Practice and Research 
+comd7306.501.17s,comd,7306,COMD 7306,21272,Cultural Issues in Communication 
+comd7336.001.17s,comd,7336,COMD 7336,21089,Social Communication in Early Childhood Disorders 
+comd7384.501.17s,comd,7384,COMD 7384,21398,Augmentative Communication 
+comd7392.001.17s,comd,7392,COMD 7392,21397,Language Disorders and Reading Disabilities 
+comd7v56.001.17s,comd,7v56,COMD 7v56,21396,Bilingual Speech-Language Assessment and Intervention 
+comd7v86.001.17s,comd,7v86,COMD 7v86,21318,Special Topics in Child Language 
+comm1311.506.17s,comm,1311,COMM 1311,27350,Survey of Oral and Technology-based Communication 
+comm3351.001.17s,comm,3351,COMM 3351,27184,History and Theory of Communication 
+comm3352.001.17s,comm,3352,COMM 3352,27260,Media and Culture 
+comm4340.001.17s,comm,4340,COMM 4340,27185,Small Group Communication 
+comm4350.001.17s,comm,4350,COMM 4350,27247,Intercultural Communication 
+comm4360.001.17s,comm,4360,COMM 4360,27186,Communication Ethics 
+comm4370.001.17s,comm,4370,COMM 4370,27187,Communication and Leadership 
+crim1301.001.17s,crim,1301,CRIM 1301,23452,Introduction to Criminal Justice 
+crim1307.001.17s,crim,1307,CRIM 1307,23453,Introduction to Crime and Criminology 
+crim2306.001.17s,crim,2306,CRIM 2306,23454,Criminal Law 
+crim2313.001.17s,crim,2313,CRIM 2313,27654,Police and Society 
+crim2317.001.17s,crim,2317,CRIM 2317,23776,Criminal Prosecution and Court Process 
+crim3300.001.17s,crim,3300,CRIM 3300,23817,Crime and Civil Liberties 
+crim3301.001.17s,crim,3301,CRIM 3301,23455,Theories of Justice 
+crim3302.001.17s,crim,3302,CRIM 3302,23456,Advanced Criminology 
+crim3303.001.17s,crim,3303,CRIM 3303,23457,Advanced Criminal Justice 
+crim3310.001.17s,crim,3310,CRIM 3310,23735,Youth Crime and Justice 
+crim3312.001.17s,crim,3312,CRIM 3312,23459,Drugs and Crime 
+crim3319.001.17s,crim,3319,CRIM 3319,23621,Comparative Justice Systems 
+crim3323.0w1.17s,crim,3323,CRIM 3323,23736,Violence and Gun Control 
+crim4311.001.17s,crim,4311,CRIM 4311,23460,Crime and Justice Policy 
+crim4322.0h1.17s,crim,4322,CRIM 4322,23461,Senior Research Seminar 
+crim4323.001.17s,crim,4323,CRIM 4323,23853,Communities and Crime 
+crim4337.001.17s,crim,4337,CRIM 4337,23818,Landmark Supreme Court Cases 
+crim6307.001.17s,crim,6307,CRIM 6307,23462,Measures and Correlates of Crime 
+crim6311.001.17s,crim,6311,CRIM 6311,23737,Crime and Justice Policy 
+crim6315.001.17s,crim,6315,CRIM 6315,23599,Violent Crime 
+crim6381.0w1.17s,crim,6381,CRIM 6381,27078,Issues in Criminology 
+crim7315.001.17s,crim,7315,CRIM 7315,23819,Evidence-Based Crime Prevention 
+crim7381.0w1.17s,crim,7381,CRIM 7381,27079,Special Topics in Criminology 
+crim8v02.029.17s,crim,8v02,CRIM 8v02,27106,Comprehensive Exam Preparation 
+crim8v92.029.17s,crim,8v92,CRIM 8v92,27108,Independent Advanced Research 
+crwt2301.001.17s,crwt,2301,CRWT 2301,20056,Introductory Creative Writing 
+crwt3307.hn1.17s,crwt,3307,CRWT 3307,20467,Creating Short Stories 
+crwt3308.001.17s,crwt,3308,CRWT 3308,20414,Creating Nonfictions 
+crwt3351.001.17s,crwt,3351,CRWT 3351,20330,Creating Poetry 
+crwt4354.001.17s,crwt,4354,CRWT 4354,20316,Creating Scripts 
+cs1134.101.17s,cs,1134,CS 1134,22859,Computer Science Laboratory 
+cs1136.101.17s,cs,1136,CS 1136,21886,Computer Science Laboratory 
+cs1324.001.17s,cs,1324,CS 1324,22950,Introduction to Programming for Biomedical Engineers 
+cs1325.001.17s,cs,1325,CS 1325,22172,Introduction to Programming 
+cs1334.501.17s,cs,1334,CS 1334,22909,Programming Fundamentals for Non-Majors 
+cs1335.001.17s,cs,1335,CS 1335,22291,Computer Science I for Non-majors 
+cs1336.002.17s,cs,1336,CS 1336,22559,Programming Fundamentals 
+cs1337.008.17s,cs,1337,CS 1337,23054,Computer Science I 
+cs2305.506.17s,cs,2305,CS 2305,27148,Discrete Mathematics for Computing I 
+cs2335.002.17s,cs,2335,CS 2335,22497,Computer Science II for Non-majors 
+cs2336.004.17s,cs,2336,CS 2336,27151,Computer Science II 
+cs3162.552.17s,cs,3162,CS 3162,22770,Professional Responsibility in Computer Science and Software Engineering 
+cs3305.hon.17s,cs,3305,CS 3305,22690,Discrete Mathematics for Computing II 
+cs3340.hn1.17s,cs,3340,CS 3340,22775,Computer Architecture 
+cs3341.001.17s,cs,3341,CS 3341,21906,Probability and Statistics in Computer Science and Software Engineering 
+cs3345.002.17s,cs,3345,CS 3345,22500,Data Structures and Introduction to Algorithmic Analysis 
+cs3354.001.17s,cs,3354,CS 3354,22504,Software Engineering 
+cs3360.001.17s,cs,3360,CS 3360,22990,Computer Graphics for Artists and Designers 
+cs3376.002.17s,cs,3376,CS 3376,27162,C/C++ Programming in a UNIX Environment 
+cs4141.108.17s,cs,4141,CS 4141,23344,Digital Systems Laboratory 
+cs4334.001.17s,cs,4334,CS 4334,22585,Numerical Analysis 
+cs4337.hon.17s,cs,4337,CS 4337,22176,Organization of Programming Languages 
+cs4341.hon.17s,cs,4341,CS 4341,23080,Digital Logic and Computer Design 
+cs4347.001.17s,cs,4347,CS 4347,21908,Database Systems 
+cs4348.501.17s,cs,4348,CS 4348,27164,Operating Systems Concepts 
+cs4349.001.17s,cs,4349,CS 4349,21894,Advanced Algorithm Design and Analysis 
+cs4353.001.17s,cs,4353,CS 4353,22872,Human Computer Interactions II 
+cs4365.001.17s,cs,4365,CS 4365,23078,Artificial Intelligence 
+cs4375.501.17s,cs,4375,CS 4375,27724,Introduction to Machine Learning 
+cs4384.hon.17s,cs,4384,CS 4384,23170,Automata Theory 
+cs4386.001.17s,cs,4386,CS 4386,23257,Compiler Design 
+cs4390.002.17s,cs,4390,CS 4390,22512,Computer Networks 
+cs4391.001.17s,cs,4391,CS 4391,22876,Introduction to Computer Vision 
+cs4393.001.17s,cs,4393,CS 4393,21896,Computer and Network Security 
+cs4396.001.17s,cs,4396,CS 4396,21897,Networking Laboratory 
+cs4398.001.17s,cs,4398,CS 4398,23167,Digital Forensics 
+cs4485.002.17s,cs,4485,CS 4485,22358,Computer Science Project 
+cs5333.001.17s,cs,5333,CS 5333,22515,Discrete Structures 
+cs5343.501.17s,cs,5343,CS 5343,21900,Algorithm Analysis and Data Structures 
+cs5348.002.17s,cs,5348,CS 5348,22692,Operating Systems Concepts 
+cs5390.001.17s,cs,5390,CS 5390,21901,Computer Networks 
+cs6301.004.17s,cs,6301,CS 6301,22602,Special Topics in Computer Science 
+cs6304.001.17s,cs,6304,CS 6304,23357,Computer Architecture 
+cs6313.001.17s,cs,6313,CS 6313,22958,Statistical Methods for Data Science 
+cs6314.001.17s,cs,6314,CS 6314,23229,Web Programming Languages 
+cs6315.501.17s,cs,6315,CS 6315,23169,Semantic Web 
+cs6320.001.17s,cs,6320,CS 6320,22695,Natural Language Processing 
+cs6322.501.17s,cs,6322,CS 6322,22177,Information Retrieval 
+cs6324.001.17s,cs,6324,CS 6324,22693,Information Security 
+cs6326.001.17s,cs,6326,CS 6326,23380,Human Computer Interactions 
+cs6327.001.17s,cs,6327,CS 6327,23381,Video Analytics 
+cs6329.001.17s,cs,6329,CS 6329,27705,Object-Oriented Software Engineering 
+cs6343.001.17s,cs,6343,CS 6343,23010,Cloud Computing 
+cs6347.001.17s,cs,6347,CS 6347,23025,Statistical Methods in AI and Machine Learning 
+cs6348.001.17s,cs,6348,CS 6348,23277,Data and Applications Security 
+cs6349.001.17s,cs,6349,CS 6349,22786,Network Security 
+cs6350.001.17s,cs,6350,CS 6350,22929,Big Data Management and Analytics 
+cs6352.001.17s,cs,6352,CS 6352,21909,Performance of Computer Systems and Networks 
+cs6359.501.17s,cs,6359,CS 6359,27713,Object-Oriented Analysis and Design 
+cs6360.003.17s,cs,6360,CS 6360,22779,Database Design 
+cs6361.001.17s,cs,6361,CS 6361,21911,Advanced Requirements Engineering 
+cs6363.004.17s,cs,6363,CS 6363,27167,Design and Analysis of Computer Algorithms 
+cs6364.001.17s,cs,6364,CS 6364,22696,Artificial Intelligence 
+cs6366.001.17s,cs,6366,CS 6366,22769,Computer Graphics 
+cs6367.001.17s,cs,6367,CS 6367,23225,"Software Testing, Validation and Verification "
+cs6371.001.17s,cs,6371,CS 6371,21902,Advanced Programming Languages 
+cs6375.001.17s,cs,6375,CS 6375,21903,Machine Learning 
+cs6376.001.17s,cs,6376,CS 6376,27612,Parallel Processing 
+cs6378.001.17s,cs,6378,CS 6378,22178,Advanced Operating Systems 
+cs6380.002.17s,cs,6380,CS 6380,27618,Distributed Computing 
+cs6381.001.17s,cs,6381,CS 6381,27584,Combinatorics and Graph Algorithms 
+cs6382.501.17s,cs,6382,CS 6382,21904,Theory of Computation 
+cs6384.001.17s,cs,6384,CS 6384,22878,Computer Vision 
+cs6385.001.17s,cs,6385,CS 6385,21912,Algorithmic Aspects of Telecommunication Networks 
+cs6387.001.17s,cs,6387,CS 6387,27714,Advanced Software Engineering Project 
+cs6388.501.17s,cs,6388,CS 6388,21913,Software Project Planning and Management 
+cs6390.001.17s,cs,6390,CS 6390,22960,Advanced Computer Networks 
+cs6392.001.17s,cs,6392,CS 6392,27620,Mobile Computing Systems 
+cs6396.001.17s,cs,6396,CS 6396,21914,Real-Time Systems 
+cs7301.002.17s,cs,7301,CS 7301,27585,Recent Advances in Computing 
+danc1310.0h2.17s,danc,1310,DANC 1310,27440,Understanding Dance 
+danc2321.001.17s,danc,2321,DANC 2321,20317,"Stretch, Conditioning, Alignment "
+danc2332.001.17s,danc,2332,DANC 2332,20157,Modern Dance 1 
+danc2333.001.17s,danc,2333,DANC 2333,20158,Jazz Dance 1 
+danc2334.001.17s,danc,2334,DANC 2334,20159,Ballet 1 
+danc2336.001.17s,danc,2336,DANC 2336,27034,Tap Dance 1 
+danc3333.001.17s,danc,3333,DANC 3333,20160,Modern Dance 2 
+danc3342.501.17s,danc,3342,DANC 3342,27036,Advanced Topics in Dance 
+danc3347.001.17s,danc,3347,DANC 3347,27037,Dance Composition 
+dram1310.hn1.17s,dram,1310,DRAM 1310,20556,Understanding Theater 
+dram1351.001.17s,dram,1351,DRAM 1351,20216,Acting 1 
+dram1352.501.17s,dram,1352,DRAM 1352,27038,Acting 2 
+dram2372.002.17s,dram,2372,DRAM 2372,20217,Improvisation 
+dram3310.591.17s,dram,3310,DRAM 3310,20272,Theater/Performance Ensemble 
+dram3324.001.17s,dram,3324,DRAM 3324,27717,Technical Theater 2 
+dram3342.501.17s,dram,3342,DRAM 3342,20558,Advanced Topics in Theater 
+dram3351.001.17s,dram,3351,DRAM 3351,27716,Light Design 
+dram3372.001.17s,dram,3372,DRAM 3372,20557,Advanced Improvisation 
+dram3380.001.17s,dram,3380,DRAM 3380,27689,Theatre and Literature 
+econ2301.501.17s,econ,2301,ECON 2301,26851,Principles of Macroeconomics 
+econ2302.003.17s,econ,2302,ECON 2302,23598,Principles of Microeconomics 
+econ3310.001.17s,econ,3310,ECON 3310,23467,Intermediate Microeconomic Theory 
+econ3311.001.17s,econ,3311,ECON 3311,23535,Intermediate Macroeconomic Theory 
+econ3312.001.17s,econ,3312,ECON 3312,23912,Money and Banking 
+econ3315.001.17s,econ,3315,ECON 3315,23913,Sports Economics 
+econ3330.501.17s,econ,3330,ECON 3330,23969,Economics of Health 
+econ4301.hn1.17s,econ,4301,ECON 4301,27432,Game Theory 
+econ4320.001.17s,econ,4320,ECON 4320,26858,Public Sector Economics 
+econ4336.001.17s,econ,4336,ECON 4336,23470,Environmental Economic Theory and Policy 
+econ4351.001.17s,econ,4351,ECON 4351,23471,Mathematical Economics 
+econ4355.001.17s,econ,4355,ECON 4355,23472,Econometrics 
+econ4360.001.17s,econ,4360,ECON 4360,23916,International Trade 
+econ4382.001.17s,econ,4382,ECON 4382,23820,International Finance 
+econ5322.501.17s,econ,5322,ECON 5322,23473,Macroeconomic Theory for Applications 
+econ5397.001.17s,econ,5397,ECON 5397,26859,Special Topics in Economics 
+econ6306.502.17s,econ,6306,ECON 6306,23970,Applied Econometrics 
+econ6309.001.17s,econ,6309,ECON 6309,23475,Econometrics I 
+econ6336.001.17s,econ,6336,ECON 6336,26860,Economics of Education 
+econ6372.501.17s,econ,6372,ECON 6372,23746,Local Economic Development 
+econ6v01.021.17s,econ,6v01,ECON 6v01,23986,Independent Study 
+econ7301.001.17s,econ,7301,ECON 7301,23821,Microeconomics Theory II 
+econ7302.501.17s,econ,7302,ECON 7302,23739,Macroeconomics Theory II 
+econ7311.001.17s,econ,7311,ECON 7311,26862,Special Topics in Econometric and Spatial Analysis 
+ecs1100.001.17s,ecs,1100,ECS 1100,27995,Introduction to Engineering and Computer Science 
+ecs3301.001.17s,ecs,3301,ECS 3301,22542,Introduction to Nanoscience and Nanotechnology 
+ecs3310.001.17s,ecs,3310,ECS 3310,23100,Introduction to Materials Science 
+ecs3361.001.17s,ecs,3361,ECS 3361,22049,Social Issues and Ethics in Computer Science and Engineering 
+ecs3390.0h4.17s,ecs,3390,ECS 3390,22045,Professional and Technical Communication 
+ecsc2100.001.17s,ecsc,2100,ECSC 2100,23256,Engineering Project in Community Service 
+ecsc3177.001.17s,ecsc,3177,ECSC 3177,22292,CS IPP Assignment 
+ecsc3179.001.17s,ecsc,3179,ECSC 3179,22294,ENG IPP Assignment 
+ecsc4100.001.17s,ecsc,4100,ECSC 4100,27610,Engineering Project in Community Service II 
+ecsc4300.001.17s,ecsc,4300,ECSC 4300,27996,Student Apprenticeship and Mentoring 
+ecsc4378.001.17s,ecsc,4378,ECSC 4378,22545,Professional Industrial Practice Program 
+ecsc5177.001.17s,ecsc,5177,ECSC 5177,22296,CS IPP Assignment 
+ecsc5179.001.17s,ecsc,5179,ECSC 5179,22298,ENG IPP Assignment 
+ed3314.501.17s,ed,3314,ED 3314,27692,The American Public School 
+ed3315.002.17s,ed,3315,ED 3315,24064,Children's Literature 
+ed3339.001.17s,ed,3339,ED 3339,24015,Educational Psychology for Teachers 
+ed3340.501.17s,ed,3340,ED 3340,24016,Math Concepts for Teachers 
+ed3342.501.17s,ed,3342,ED 3342,24031,Classroom Management Grades EC - 6 
+ed3345.501.17s,ed,3345,ED 3345,24019,"Art, Music, and Physical Development Grades EC - 6 "
+ed3370.501.17s,ed,3370,ED 3370,24101,Curriculum and Instruction in Mathematics and Computer Science 
+ed3382.501.17s,ed,3382,ED 3382,24020,Curriculum and Instruction in Social Studies 
+ed4343.001.17s,ed,4343,ED 4343,24021,Science Methods for Grades EC - 6 
+ed4344.501.17s,ed,4344,ED 4344,24022,Mathematics Methods for Elementary Teachers 
+ed4345.501.17s,ed,4345,ED 4345,24044,Social Studies Methods for Grades EC - 6 
+ed4351.501.17s,ed,4351,ED 4351,24102,ESL for K-12 Teachers 
+ed4352.001.17s,ed,4352,ED 4352,24023,Reading I: Learning to Read 
+ed4353.001.17s,ed,4353,ED 4353,24025,Reading in Secondary Content 
+ed4357.001.17s,ed,4357,ED 4357,24027,Diagnostic Reading 
+ed4358.0w1.17s,ed,4358,ED 4358,24074,Chess I: Using Chess in Schools 
+ed4359.0w1.17s,ed,4359,ED 4359,24075,Chess II: Institutional and Cultural Contexts of Chess 
+ed4361.001.17s,ed,4361,ED 4361,27133,Classroom Management Secondary 
+ed4363.001.17s,ed,4363,ED 4363,24030,Reading II/ELAR Methods 
+ed4372.0w1.17s,ed,4372,ED 4372,24076,Educational Technology 
+ed4693.001.17s,ed,4693,ED 4693,24079,Student Teaching - Elementary 
+ed4694.001.17s,ed,4694,ED 4694,24084,Student Teaching Secondary 
+ed5318.001.17s,ed,5318,ED 5318,24054,Supervised Teaching Internship 
+ee1202.004.17s,ee,1202,EE 1202,27085,Introduction to Electrical Engineering II 
+ee2310.001.17s,ee,2310,EE 2310,22097,Introduction to Digital Systems 
+ee3101.101.17s,ee,3101,EE 3101,22439,Electrical Network Analysis Laboratory 
+ee3102.101.17s,ee,3102,EE 3102,22454,Signals and Systems Laboratory 
+ee3110.102.17s,ee,3110,EE 3110,22101,Electronic Devices Laboratory 
+ee3111.101.17s,ee,3111,EE 3111,22107,Electronic Circuits Laboratory 
+ee3120.101.17s,ee,3120,EE 3120,22115,Digital Circuits Laboratory 
+ee3150.101.17s,ee,3150,EE 3150,22127,Communications Systems Laboratory 
+ee3301.001.17s,ee,3301,EE 3301,22466,Electrical Network Analysis 
+ee3302.001.17s,ee,3302,EE 3302,22472,Signals and Systems 
+ee3310.001.17s,ee,3310,EE 3310,22134,Electronic Devices 
+ee3311.001.17s,ee,3311,EE 3311,22138,Electronic Circuits 
+ee3320.001.17s,ee,3320,EE 3320,22142,Digital Circuits 
+ee3350.501.17s,ee,3350,EE 3350,22149,Communications Systems 
+ee4301.001.17s,ee,4301,EE 4301,22151,Electromagnetic Engineering I 
+ee4304.001.17s,ee,4304,EE 4304,22718,Computer Architecture 
+ee4310.001.17s,ee,4310,EE 4310,22152,Systems and Controls 
+ee4325.001.17s,ee,4325,EE 4325,22154,Introduction to VLSI Design 
+ee4330.001.17s,ee,4330,EE 4330,22155,Integrated Circuit Technology 
+ee4340.001.17s,ee,4340,EE 4340,27123,Analog Integrated Circuit Analysis and Design 
+ee4360.001.17s,ee,4360,EE 4360,22156,Digital Communications 
+ee4367.501.17s,ee,4367,EE 4367,22697,Telecommunication Networks 
+ee4368.002.17s,ee,4368,EE 4368,22157,RF Circuit Design Principles 
+ee4370.301.17s,ee,4370,EE 4370,22868,Embedded Microprocessor Systems 
+ee4371.501.17s,ee,4371,EE 4371,27698,Introduction to MEMS 
+ee4388.501.17s,ee,4388,EE 4388,22479,Senior Design Project I 
+ee4389.501.17s,ee,4389,EE 4389,22484,Senior Design Project II 
+eecs6302.001.17s,eecs,6302,EECS 6302,23185,Dynamics of Complex Networks and Systems 
+eecs6331.001.17s,eecs,6331,EECS 6331,22870,Linear Systems 
+eecs6336.001.17s,eecs,6336,EECS 6336,22996,Nonlinear Systems 
+eect6325.001.17s,eect,6325,EECT 6325,22703,VLSI Design 
+eect6326.001.17s,eect,6326,EECT 6326,22160,Analog Integrated Circuit Design 
+eect6379.501.17s,eect,6379,EECT 6379,27128,"Energy Harvesting, Storage and Powering for Microsystems "
+eect7v88.501.17s,eect,7v88,EECT 7v88,27602,Special Topics in Circuits and Systems 
+eedg6301.001.17s,eedg,6301,EEDG 6301,22648,Advanced Digital Logic 
+eedg6302.303.17s,eedg,6302,EEDG 6302,27124,Microprocessor Systems 
+eedg6303.501.17s,eedg,6303,EEDG 6303,22716,Testing and Testable Design 
+eedg6304.001.17s,eedg,6304,EEDG 6304,23355,Computer Architecture 
+eedg6308.001.17s,eedg,6308,EEDG 6308,22538,Real-Time Systems 
+eedg7v81.001.17s,eedg,7v81,EEDG 7v81,22706,Special Topics in Digital Systems 
+eemf6321.501.17s,eemf,6321,EEMF 6321,22159,Active Semiconductor Devices 
+eemf6324.001.17s,eemf,6324,EEMF 6324,26891,"Electronic, Optical and Magnetic Materials "
+eemf6327.001.17s,eemf,6327,EEMF 6327,22916,Semiconductor Device Characterization 
+eemf6382.501.17s,eemf,6382,EEMF 6382,22169,Introduction to MEMS 
+eeop6311.001.17s,eeop,6311,EEOP 6311,27577,Photonic Devices and Integration 
+eeop7340.001.17s,eeop,7340,EEOP 7340,27603,Optical Network Architectures and Protocols 
+eepe6356.001.17s,eepe,6356,EEPE 6356,22704,Adjustable Speed Motor Drives 
+eepe6357.001.17s,eepe,6357,EEPE 6357,23251,"Control, Modeling and Simulation in Power Electronics "
+eerf6311.001.17s,eerf,6311,EERF 6311,22919,RF and Microwave Circuits 
+eerf6330.001.17s,eerf,6330,EERF 6330,22771,RF Integrated Circuit Design 
+eerf6351.501.17s,eerf,6351,EERF 6351,27808,Computational Electromagnetics 
+eerf6355.001.17s,eerf,6355,EERF 6355,22166,RF and Microwave Amplifier Design 
+eerf6394.001.17s,eerf,6394,EERF 6394,27616,Antenna Engineering and Wave Propagation 
+eerf6395.001.17s,eerf,6395,EERF 6395,22167,RF and Microwave Systems Engineering 
+eerf6396.001.17s,eerf,6396,EERF 6396,22168,Microwave Design and Measurement 
+eesc6349.001.17s,eesc,6349,EESC 6349,22162,Random Processes 
+eesc6352.001.17s,eesc,6352,EESC 6352,22163,Digital Communication Systems 
+eesc6353.001.17s,eesc,6353,EESC 6353,27126,Broadband Digital Communication 
+eesc6360.501.17s,eesc,6360,EESC 6360,22164,Digital Signal Processing I 
+eesc6361.501.17s,eesc,6361,EESC 6361,22165,Digital Signal Processing II 
+eesc6395.501.17s,eesc,6395,EESC 6395,27129,Wireless Sensor Systems and Networks 
+emac2321.003.17s,emac,2321,EMAC 2321,27239,Writing and Research for Emerging Media 
+emac2322.002.17s,emac,2322,EMAC 2322,27264,Theories of Emerging Media and Communication 
+emac2330.001.17s,emac,2330,EMAC 2330,27263,Historical Perspectives on Emerging Media 
+emac3300.001.17s,emac,3300,EMAC 3300,27275,Reading Media Critically 
+emac3326.001.17s,emac,3326,EMAC 3326,27282,Emerging Media Production 
+emac3335.001.17s,emac,3335,EMAC 3335,27192,Media Psychology 
+emac4314.001.17s,emac,4314,EMAC 4314,27252,Persuasion and Digital Media 
+emac4325.001.17s,emac,4325,EMAC 4325,20815,Digital Writing 
+emac4326.002.17s,emac,4326,EMAC 4326,27255,Advanced Emerging Media Production 
+emac4372.001.17s,emac,4372,EMAC 4372,27249,Topics in Emerging Media and Communications 
+emac6337.001.17s,emac,6337,EMAC 6337,27309,Emerging Media and Media Psychology 
+emac6342.501.17s,emac,6342,EMAC 6342,20844,Digital Culture 
+emac6374.501.17s,emac,6374,EMAC 6374,20845,Digital Textuality 
+emac6381.501.17s,emac,6381,EMAC 6381,20725,Special Topics in Emerging Media and Communication 
+emac6383.501.17s,emac,6383,EMAC 6383,27310,Emerging Media Studio II 
+engr2300.002.17s,engr,2300,ENGR 2300,22431,Linear Algebra for Engineers 
+engr3300.005.17s,engr,3300,ENGR 3300,27087,Advanced Engineering Mathematics 
+engr3341.001.17s,engr,3341,ENGR 3341,22146,Probability Theory and Statistics 
+engy3300.001.17s,engy,3300,ENGY 3300,25051,Introduction to Energy Technology 
+engy3340.001.17s,engy,3340,ENGY 3340,27608,Energy Law and Contracts 
+engy4313.001.17s,engy,4313,ENGY 4313,25052,Energy Finance 
+engy6336.001.17s,engy,6336,ENGY 6336,27451,Energy Accounting and Taxation 
+entp3301.003.17s,entp,3301,ENTP 3301,27410,Innovation and Entrepreneurship 
+entp3320.001.17s,entp,3320,ENTP 3320,25194,Start-up Launch I 
+entp3360.002.17s,entp,3360,ENTP 3360,26970,Entrepreneurial Finance 
+entp4311.001.17s,entp,4311,ENTP 4311,25091,Entrepreneurial Strategy and Business Models 
+entp4320.501.17s,entp,4320,ENTP 4320,25092,Small Business Management 
+entp4340.501.17s,entp,4340,ENTP 4340,25093,Social Entrepreneurship 
+entp6311.502.17s,entp,6311,ENTP 6311,25054,Valuation Models and Practices 
+entp6315.001.17s,entp,6315,ENTP 6315,24360,Entrepreneurial Finance 
+entp6316.001.17s,entp,6316,ENTP 6316,25249,Private Equity Finance 
+entp6360.001.17s,entp,6360,ENTP 6360,24783,Startup Launch I 
+entp6370.501.17s,entp,6370,ENTP 6370,24358,Innovation and Entrepreneurship 
+entp6375.501.17s,entp,6375,ENTP 6375,24359,Technology and New Product Development 
+entp6378.0w1.17s,entp,6378,ENTP 6378,27418,Managing the Emerging Enterprise 
+entp6382.501.17s,entp,6382,ENTP 6382,27032,Professional Selling I 
+entp6390.501.17s,entp,6390,ENTP 6390,26892,Business Model Innovation 
+entp6392.501.17s,entp,6392,ENTP 6392,25094,Entrepreneurship in the Social Sector 
+entp6v97.016.17s,entp,6v97,ENTP 6v97,25095,Innovation and Entrepreneurship Internship 
+entp6v99.001.17s,entp,6v99,ENTP 6v99,25097,Special Topics in Entrepreneurship 
+envr2302.001.17s,envr,2302,ENVR 2302,23786,The Global Environment 
+epps2301.002.17s,epps,2301,EPPS 2301,26879,Research Design in the Social and Policy Sciences 
+epps2302.501.17s,epps,2302,EPPS 2302,23843,Methods of Quantitative Analysis in the Social and Policy Sciences 
+epps6313.501.17s,epps,6313,EPPS 6313,23846,Introduction to Quantitative Methods 
+epps6316.501.17s,epps,6316,EPPS 6316,23476,Applied Regression 
+epps7304.501.17s,epps,7304,EPPS 7304,26877,Cost-Benefit Analysis 
+epps7316.001.17s,epps,7316,EPPS 7316,23477,Regression and Multivariate Analysis 
+epps7371.001.17s,epps,7371,EPPS 7371,26846,Time Series Analysis II 
+epps7v81.001.17s,epps,7v81,EPPS 7v81,27118,Special Topics in Social Science Research Methodology 
+film2332.hn1.17s,film,2332,FILM 2332,20009,Understanding Film 
+film3321.001.17s,film,3321,FILM 3321,20387,Film in Historical Context 
+film3325.001.17s,film,3325,FILM 3325,27039,Film Authorship 
+fin3100.001.17s,fin,3100,FIN 3100,25099,Professional Development 
+fin3300.001.17s,fin,3300,FIN 3300,24485,Personal Finance 
+fin3305.003.17s,fin,3305,FIN 3305,27652,Real Estate Principles 
+fin3320.006.17s,fin,3320,FIN 3320,25056,Business Finance 
+fin3330.001.17s,fin,3330,FIN 3330,25060,Personal Financial Planning 
+fin3340.001.17s,fin,3340,FIN 3340,24493,Regulation of Business and Financial Markets 
+fin3350.001.17s,fin,3350,FIN 3350,25061,Macroeconomics and Financial Markets 
+fin3360.002.17s,fin,3360,FIN 3360,26839,Entrepreneurial Finance 
+fin3365.001.17s,fin,3365,FIN 3365,25062,Real Estate Finance and Principles 
+fin3370.001.17s,fin,3370,FIN 3370,24496,Principles of Risk Management and Insurance 
+fin3380.001.17s,fin,3380,FIN 3380,24497,International Financial Management 
+fin3390.003.17s,fin,3390,FIN 3390,25196,Introduction to Financial Modeling 
+fin4300.002.17s,fin,4300,FIN 4300,25063,Investment Management 
+fin4310.001.17s,fin,4310,FIN 4310,25064,Intermediate Business Finance 
+fin4313.001.17s,fin,4313,FIN 4313,25055,Energy Finance 
+fin4321.501.17s,fin,4321,FIN 4321,24962,Real Estate Law and Contracts 
+fin4330.001.17s,fin,4330,FIN 4330,26770,Estate Planning 
+fin4332.501.17s,fin,4332,FIN 4332,26974,Commercial Property Risk Management and Insurance 
+fin4333.501.17s,fin,4333,FIN 4333,27424,Business Risk Management 
+fin4334.501.17s,fin,4334,FIN 4334,27426,Insurance Law and Contracts 
+fin4337.001.17s,fin,4337,FIN 4337,25226,Business Valuation 
+fin4340.501.17s,fin,4340,FIN 4340,24503,Options and Futures Markets 
+fin4345.501.17s,fin,4345,FIN 4345,27422,Financial Information and Analysis 
+fin4380.001.17s,fin,4380,FIN 4380,24764,Domestic Fund Management 
+fin4390.001.17s,fin,4390,FIN 4390,27921,Seminar Series in Finance 
+fin4v90.501.17s,fin,4v90,FIN 4v90,26840,Individual Study in Finance 
+fin6301.503.17s,fin,6301,FIN 6301,25066,Financial Management 
+fin6306.003.17s,fin,6306,FIN 6306,26772,Quantitative Methods in Finance 
+fin6308.0w1.17s,fin,6308,FIN 6308,24505,Regulation of Business and Financial Markets 
+fin6310.501.17s,fin,6310,FIN 6310,25257,Investment Management 
+fin6311.001.17s,fin,6311,FIN 6311,25067,Valuation Models and Practices 
+fin6314.001.17s,fin,6314,FIN 6314,24765,Fixed Income Securities 
+fin6315.001.17s,fin,6315,FIN 6315,24456,Entrepreneurial Finance 
+fin6316.001.17s,fin,6316,FIN 6316,25069,Private Equity Finance 
+fin6321.001.17s,fin,6321,FIN 6321,24766,Introduction to Real Estate 
+fin6322.501.17s,fin,6322,FIN 6322,24509,Real Estate Finance and Investment 
+fin6323.501.17s,fin,6323,FIN 6323,24767,Real Estate Market Analysis and Investment 
+fin6325.001.17s,fin,6325,FIN 6325,24874,Macroeconomics and Financial Markets 
+fin6335.501.17s,fin,6335,FIN 6335,24876,Energy Finance 
+fin6336.001.17s,fin,6336,FIN 6336,27450,Energy Accounting and Taxation 
+fin6341.501.17s,fin,6341,FIN 6341,27411,Energy Risk Management 
+fin6342.001.17s,fin,6342,FIN 6342,26773,Insurance and Risk Management 
+fin6350.001.17s,fin,6350,FIN 6350,25070,Advanced Financial Management 
+fin6352.001.17s,fin,6352,FIN 6352,25331,Financial Modeling 
+fin6356.501.17s,fin,6356,FIN 6356,27272,Mergers and Acquisitions 
+fin6360.001.17s,fin,6360,FIN 6360,24511,Options and Futures Markets 
+fin6366.001.17s,fin,6366,FIN 6366,24512,International Financial Management 
+fin6368.001.17s,fin,6368,FIN 6368,27582,Financial Information and Analysis 
+fin6380.501.17s,fin,6380,FIN 6380,24513,Global Fund Management 
+fin6381.001.17s,fin,6381,FIN 6381,24769,Introductory Mathematical Finance 
+fin6382.001.17s,fin,6382,FIN 6382,26777,Numerical and Statistical Methods in Finance 
+fin6383.001.17s,fin,6383,FIN 6383,24878,Financial Risk Management 
+fin6385.501.17s,fin,6385,FIN 6385,26778,Enterprise Risk Management 
+fin6v99.001.17s,fin,6v99,FIN 6v99,27786,Special Topics in Finance 
+fin7335.001.17s,fin,7335,FIN 7335,26779,Topics in Empirical Asset Pricing 
+fren1312.001.17s,fren,1312,FREN 1312,20010,Beginning French II 
+fren2312.001.17s,fren,2312,FREN 2312,26981,Intermediate French II 
+geog2302.001.17s,geog,2302,GEOG 2302,23742,The Global Environment 
+geog2303.001.17s,geog,2303,GEOG 2303,23530,People and Place: An Introduction to World Geographic Regions 
+geog3331.001.17s,geog,3331,GEOG 3331,23529,Urban Growth and Structure 
+geog3370.001.17s,geog,3370,GEOG 3370,23622,The Global Economy 
+geog3372.001.17s,geog,3372,GEOG 3372,27076,Population and Development 
+geos1103.101.17s,geos,1103,GEOS 1103,25682,Physical Geology Laboratory 
+geos1104.101.17s,geos,1104,GEOS 1104,25684,History of Earth and Life Laboratory 
+geos1303.0w1.17s,geos,1303,GEOS 1303,25931,Physical Geology 
+geos1304.001.17s,geos,1304,GEOS 1304,25686,History of Earth and Life 
+geos2302.001.17s,geos,2302,GEOS 2302,26082,The Global Environment 
+geos2306.001.17s,geos,2306,GEOS 2306,26391,Essentials of Field Geologic Methods 
+geos2310.001.17s,geos,2310,GEOS 2310,26393,Environmental Geology 
+geos2332.hn1.17s,geos,2332,GEOS 2332,27077,Age of Dinosaurs 
+geos2409.001.17s,geos,2409,GEOS 2409,25687,Rocks and Minerals 
+geos3434.001.17s,geos,3434,GEOS 3434,25691,Paleobiology 
+geos3470.001.17s,geos,3470,GEOS 3470,26384,Structural Geology 
+geos4322.001.17s,geos,4322,GEOS 4322,26251,The Earth System 
+geos4325.001.17s,geos,4325,GEOS 4325,26247,Introduction to Remote Sensing 
+geos4390.001.17s,geos,4390,GEOS 4390,25688,Communication in the Geosciences 
+geos4v08.001.17s,geos,4v08,GEOS 4v08,26548,Special Topics in Geology or Geophysics II 
+geos5306.001.17s,geos,5306,GEOS 5306,26404,Data Analysis for Geoscientists 
+geos5322.001.17s,geos,5322,GEOS 5322,26161,GPS 
+geos5324.501.17s,geos,5324,GEOS 5324,26273,3D Data Capture and Ground Lidar 
+geos5326.001.17s,geos,5326,GEOS 5326,26343,Advanced Remote Sensing 
+geos5335.001.17s,geos,5335,GEOS 5335,27671,Introductory Seismology 
+geos5375.501.17s,geos,5375,GEOS 5375,26135,Tectonics 
+geos5387.001.17s,geos,5387,GEOS 5387,26403,Applied Geophysics 
+geos5v08.034.17s,geos,5v08,GEOS 5v08,26383,Special Topics in Geosciences 
+geos6381.501.17s,geos,6381,GEOS 6381,26248,Geographic Information Systems Fundamentals 
+geos6383.001.17s,geos,6383,GEOS 6383,26582,Applied Geographic Information Systems 
+geos6384.001.17s,geos,6384,GEOS 6384,26246,Advanced Geographic Information Systems 
+geos6385.001.17s,geos,6385,GEOS 6385,26405,"GIS Theories, Models and Issues "
+geos6392.001.17s,geos,6392,GEOS 6392,26549,Reflection Seismology 
+geos7110.001.17s,geos,7110,GEOS 7110,25689,Workshop in Environmental Geosciences 
+geos7190.001.17s,geos,7190,GEOS 7190,25690,Workshop in Seismology 
+geos7v00.001.17s,geos,7v00,GEOS 7v00,26159,Research and Literature Seminar 
+geos8399.017.17s,geos,8399,GEOS 8399,25703,Dissertation 
+geos8v90.023.17s,geos,8v90,GEOS 8v90,26543,Research in Seismology 
+germ1312.501.17s,germ,1312,GERM 1312,20059,Beginning German II 
+germ2312.001.17s,germ,2312,GERM 2312,20516,Intermediate German II 
+gisc4325.001.17s,gisc,4325,GISC 4325,23778,Introduction to Remote Sensing 
+gisc4382.001.17s,gisc,4382,GISC 4382,23779,Applied Geographic Information Systems 
+gisc4385.001.17s,gisc,4385,GISC 4385,23849,Advanced Applications in GIS 
+gisc4386.001.17s,gisc,4386,GISC 4386,23954,Global Change and Its Challenges 
+gisc5322.001.17s,gisc,5322,GISC 5322,23787,GPS 
+gisc5324.501.17s,gisc,5324,GISC 5324,23807,3D Data Capture and Ground Lidar 
+gisc6381.501.17s,gisc,6381,GISC 6381,23744,Geographic Information Systems Fundamentals 
+gisc6382.001.17s,gisc,6382,GISC 6382,23958,Applied Geographic Information Systems 
+gisc6384.001.17s,gisc,6384,GISC 6384,23933,Advanced Geographic Information Systems 
+gisc6385.001.17s,gisc,6385,GISC 6385,23824,"GIS Theories, Models and Issues "
+gisc6388.501.17s,gisc,6388,GISC 6388,23531,Advanced GIS Programming 
+gisc6389.001.17s,gisc,6389,GISC 6389,23449,Geospatial Information Sciences Master's Research 
+gisc7310.001.17s,gisc,7310,GISC 7310,23740,Advanced GIS Data Analysis 
+gisc7360.501.17s,gisc,7360,GISC 7360,27072,GIS Pattern Analysis 
+gisc7361.001.17s,gisc,7361,GISC 7361,27073,Spatial Statistics 
+gisc7365.001.17s,gisc,7365,GISC 7365,23825,Advanced Remote Sensing 
+govt2305.001.17s,govt,2305,GOVT 2305,23783,American National Government 
+govt2306.hn1.17s,govt,2306,GOVT 2306,23775,State and Local Government 
+gst2300.001.17s,gst,2300,GST 2300,24089,Introduction to Gender Studies 
+hcs6310.001.17s,hcs,6310,HCS 6310,21266,Fundamentals of Functional Brain Imaging 
+hcs6313.001.17s,hcs,6313,HCS 6313,21267,Research Methods in Behavioral and Brain Sciences - Part II 
+hcs6319.001.17s,hcs,6319,HCS 6319,21468,Scientific Writing 
+hcs6322.501.17s,hcs,6322,HCS 6322,26767,Computational Modeling Methods for Language Understanding 
+hcs6331.001.17s,hcs,6331,HCS 6331,21479,Cognitive Development 
+hcs6332.001.17s,hcs,6332,HCS 6332,27258,Perception 
+hcs6333.001.17s,hcs,6333,HCS 6333,21328,Memory 
+hcs6338.001.17s,hcs,6338,HCS 6338,21100,Functional Neuroanatomy 
+hcs6341.001.17s,hcs,6341,HCS 6341,21450,"Genes, Brain, and Behavior "
+hcs6348.5h1.17s,hcs,6348,HCS 6348,26764,Neural Net Mathematics 
+hcs6359.001.17s,hcs,6359,HCS 6359,21260,The Developing Child: Toddler and Preschool Years 
+hcs6372.501.17s,hcs,6372,HCS 6372,21471,The Neuroscience of Pain 
+hcs6395.001.17s,hcs,6395,HCS 6395,27017,Cognitive Psychology 
+hcs7121.001.17s,hcs,7121,HCS 7121,27256,Graduate Seminar in Systems Neuroscience 
+hcs7310.002.17s,hcs,7310,HCS 7310,27614,Advanced Research Methods 
+hcs7338.001.17s,hcs,7338,HCS 7338,27680,Brain Connectivity 
+hcs7343.001.17s,hcs,7343,HCS 7343,21399,Neuropharmacology 
+hcs7355.001.17s,hcs,7355,HCS 7355,27625,Seminar in Psychological Sciences 
+hcs7372.002.17s,hcs,7372,HCS 7372,21357,Seminar in Cognition and Neuroscience 
+hcs7v71.001.17s,hcs,7v71,HCS 7v71,21459,Topics in Communication Sciences and Disorders 
+hcs7v98.002.17s,hcs,7v98,HCS 7v98,21487,Directed Individual Study in Behavioral and Brain Sciences 
+hcs8v50.001.17s,hcs,8v50,HCS 8v50,21358,Doctoral Readings and Research Seminar 
+hdcd6315.001.17s,hdcd,6315,HDCD 6315,21269,Assessment Theory 
+hdcd6316.001.17s,hdcd,6316,HDCD 6316,21242,Developmental Assessment 
+hdcd6320.001.17s,hdcd,6320,HDCD 6320,21259,The Developing Child: Toddler and Preschool Years 
+hdcd6335.001.17s,hdcd,6335,HDCD 6335,26825,Intervention Paradigms 
+hdcd6365.001.17s,hdcd,6365,HDCD 6365,21405,Social Communication in Early Childhood Disorders 
+hdcd6390.001.17s,hdcd,6390,HDCD 6390,21390,Infant Mental Health 
+hist1301.002.17s,hist,1301,HIST 1301,20415,U.S. History Survey to Civil War 
+hist1302.006.17s,hist,1302,HIST 1302,20195,U.S. History Survey from Civil War 
+hist2301.501.17s,hist,2301,HIST 2301,20016,History of Texas 
+hist2330.hn1.17s,hist,2330,HIST 2330,20495,Themes and Ideas in American History 
+hist3301.501.17s,hist,3301,HIST 3301,20219,Historical Inquiry 
+hist3313.001.17s,hist,3313,HIST 3313,26984,Medieval China 
+hist3324.001.17s,hist,3324,HIST 3324,26985,Women in European Society 
+hist3327.501.17s,hist,3327,HIST 3327,27041,Perspectives on Science 
+hist3374.001.17s,hist,3374,HIST 3374,20162,American Technological Development 
+hist3376.001.17s,hist,3376,HIST 3376,26986,"American Intellectual History, Colonial to the Civil War "
+hist3386.501.17s,hist,3386,HIST 3386,26987,World History to 1500 
+hist3390.001.17s,hist,3390,HIST 3390,27720,Twentieth Century African-American History 
+hist3396.001.17s,hist,3396,HIST 3396,26988,Native Americans in the Twentieth Century 
+hist4344.001.17s,hist,4344,HIST 4344,20380,Topics in European History 
+hist4376.001.17s,hist,4376,HIST 4376,26989,Topics in History 
+hist6310.501.17s,hist,6310,HIST 6310,27042,Early American History 
+hist6325.501.17s,hist,6325,HIST 6325,20523,America in the Twentieth Century 
+hist6326.501.17s,hist,6326,HIST 6326,27043,U.S. Foreign Relations 
+hist6350.501.17s,hist,6350,HIST 6350,27045,Asian History 
+hlth1100.001.17s,hlth,1100,HLTH 1100,24032,Career Explorations for the Health Professions 
+hlth1301.0w1.17s,hlth,1301,HLTH 1301,24056,Introduction to Kinesiology 
+hlth1322.0w1.17s,hlth,1322,HLTH 1322,24033,Human Nutrition 
+hlth3101.0w1.17s,hlth,3101,HLTH 3101,24034,Medical Terminology 
+hlth3301.001.17s,hlth,3301,HLTH 3301,24046,Issues in Geriatric Healthcare 
+hlth3305.001.17s,hlth,3305,HLTH 3305,24096,The U.S. Healthcare System 
+hlth3310.001.17s,hlth,3310,HLTH 3310,24057,Health Care Issues: Global Perspectives 
+hlth3315.001.17s,hlth,3315,HLTH 3315,24055,Issues in Patient Education 
+hlth4108.001.17s,hlth,4108,HLTH 4108,24045,Verbal Reasoning and Writing for Pre-Health 
+hlth4304.001.17s,hlth,4304,HLTH 4304,24094,Health Professions Internship 
+hlth4305.001.17s,hlth,4305,HLTH 4305,24140,Public Health 
+hlth4380.0w1.17s,hlth,4380,HLTH 4380,24097,Special Topics in Healthcare 
+hmgt3301.001.17s,hmgt,3301,HMGT 3301,25182,Introduction to Healthcare Management 
+hmgt3310.501.17s,hmgt,3310,HMGT 3310,25234,Healthcare Regulatory Environment 
+hmgt3311.002.17s,hmgt,3311,HMGT 3311,25221,Healthcare Accounting 
+hmgt4321.501.17s,hmgt,4321,HMGT 4321,25232,Introduction to Healthcare Information Systems 
+hmgt6320.501.17s,hmgt,6320,HMGT 6320,24362,The American Healthcare System 
+hmgt6321.501.17s,hmgt,6321,HMGT 6321,24363,Strategic Leadership of Healthcare Organizations 
+hmgt6323.0w1.17s,hmgt,6323,HMGT 6323,25185,Healthcare Informatics 
+hmgt6324.001.17s,hmgt,6324,HMGT 6324,24364,Healthcare Negotiation and Dispute Resolution 
+hmgt6327.001.17s,hmgt,6327,HMGT 6327,27854,Electronic Health Records Applications 
+hmgt6330.0w1.17s,hmgt,6330,HMGT 6330,25223,"Healthcare Law, Policy and Regulation "
+hmgt6336.501.17s,hmgt,6336,HMGT 6336,24457,Information Technology Audit and Risk Management 
+hmgt6340.501.17s,hmgt,6340,HMGT 6340,25187,Principles of Hospital Administration 
+hmgt6380.501.17s,hmgt,6380,HMGT 6380,24458,Internal Audit 
+hmgt6382.001.17s,hmgt,6382,HMGT 6382,24459,Advanced Internal Auditing 
+hmgt6v98.016.17s,hmgt,6v98,HMGT 6v98,24366,Healthcare Internship 
+hons3199.hn7.17s,hons,3199,HONS 3199,27626,Collegium V Honors Readings 
+huas6312.001.17s,huas,6312,HUAS 6312,27194,Art and Society 
+huas6315.002.17s,huas,6315,HUAS 6315,27828,The Arts in Historical Contexts 
+huas6336.051.17s,huas,6336,HUAS 6336,27048,Photography Studio/Seminar 
+huas6343.001.17s,huas,6343,HUAS 6343,27191,Essential Plays 
+huas6351.501.17s,huas,6351,HUAS 6351,27600,Creating Novels 
+huas6352.001.17s,huas,6352,HUAS 6352,20220,Creating Television and Movie Scripts 
+huas6354.502.17s,huas,6354,HUAS 6354,27445,Creating Short Fictions 
+huas6355.001.17s,huas,6355,HUAS 6355,27598,Creating Nonfictions 
+huas6373.001.17s,huas,6373,HUAS 6373,27049,"Studies in Film, Television, and Digital Media "
+huas6390.001.17s,huas,6390,HUAS 6390,20565,Special Topics in Aesthetic and Performance Studies 
+huas6391.001.17s,huas,6391,HUAS 6391,20528,Creativity: Visual Arts Workshop 
+huas6393.091.17s,huas,6393,HUAS 6393,27340,Creativity: Time-Based Arts Workshop 
+huas6399.501.17s,huas,6399,HUAS 6399,27443,Music in Historical Context 
+huas7305.501.17s,huas,7305,HUAS 7305,27196,Advanced Topics in Art History 
+huas7360.001.17s,huas,7360,HUAS 7360,20384,"Advanced Topics in Film, Television, and Digital Media "
+huhi6301.001.17s,huhi,6301,HUHI 6301,27197,History of Modern Thought 
+huhi6313.001.17s,huhi,6313,HUHI 6313,27198,"Thought, Culture, and Society in Europe "
+huhi6320.001.17s,huhi,6320,HUHI 6320,20419,Perceptions of the Past 
+huhi6346.001.17s,huhi,6346,HUHI 6346,27202,New Directions in Southern Studies 
+huhi6395.001.17s,huhi,6395,HUHI 6395,20532,Topics in the History of Ideas 
+huhi7314.001.17s,huhi,7314,HUHI 7314,20420,"Advanced Topics in European Thought, Culture, and Society "
+huhi7315.001.17s,huhi,7315,HUHI 7315,27205,"Advanced Topics in Thought, Culture, and Society "
+huhi7340.501.17s,huhi,7340,HUHI 7340,27206,New Currents in the History of Ideas 
+huma1301.014.17s,huma,1301,HUMA 1301,26992,Exploration of the Humanities 
+huma3351.001.17s,huma,3351,HUMA 3351,27211,Introduction to Islamic Culture 
+huma6300.501.17s,huma,6300,HUMA 6300,20092,Interdisciplinary Approaches to the Arts and Humanities 
+huma6320.501.17s,huma,6320,HUMA 6320,27212,French Review 
+huma6321.001.17s,huma,6321,HUMA 6321,27213,Spanish Review 
+husl6304.001.17s,husl,6304,HUSL 6304,20453,Studies in Literary Themes 
+husl6310.001.17s,husl,6310,HUSL 6310,27736,Studies in Literary Interpretation 
+husl6316.001.17s,husl,6316,HUSL 6316,27214,Critical Theory: Major Schools 
+husl6318.001.17s,husl,6318,HUSL 6318,27215,Visual Culture 
+husl6350.501.17s,husl,6350,HUSL 6350,27573,Literature of the Nineteenth Century 
+husl6370.501.17s,husl,6370,HUSL 6370,27219,Studies in Literature and Ideas 
+husl6372.501.17s,husl,6372,HUSL 6372,27220,Literature and Society 
+husl6378.501.17s,husl,6378,HUSL 6378,20573,Literature and the Holocaust 
+husl6380.001.17s,husl,6380,HUSL 6380,27221,The Art and Craft of Translation 
+husl6384.501.17s,husl,6384,HUSL 6384,27222,Digital and Visual Rhetorics 
+husl7309.501.17s,husl,7309,HUSL 7309,27223,Advanced Studies in Literary Movements 
+husl7360.001.17s,husl,7360,HUSL 7360,20629,Advanced Studies in Twentieth Century Literature 
+ims3310.001.17s,ims,3310,IMS 3310,24518,International Business 
+ims4320.501.17s,ims,4320,IMS 4320,26975,International Marketing 
+ims4330.501.17s,ims,4330,IMS 4330,24526,Global Human Resource Management 
+ims4373.001.17s,ims,4373,IMS 4373,24527,Global Strategy 
+ims6204.551.17s,ims,6204,IMS 6204,24530,Global Business 
+ims6310.501.17s,ims,6310,IMS 6310,26896,International Marketing 
+ims6314.501.17s,ims,6314,IMS 6314,24533,Global E-Business Marketing 
+ims6360.501.17s,ims,6360,IMS 6360,24534,International Strategic Management 
+ims6365.501.17s,ims,6365,IMS 6365,24535,Cross-Culture Communication and Management 
+ims6v93.0s1.17s,ims,6v93,IMS 6v93,27572,Regional Area Studies: Asia 
+ims6v98.016.17s,ims,6v98,IMS 6v98,24536,International Management Internship 
+ipec3349.001.17s,ipec,3349,IPEC 3349,27004,World Resources and Development 
+ipec4303.001.17s,ipec,4303,IPEC 4303,27007,Political Economy of South and Southeast Asia 
+ipec4304.001.17s,ipec,4304,IPEC 4304,27565,Political Economy of Latin America 
+ipec4306.001.17s,ipec,4306,IPEC 4306,27753,Economic Development: Re-Engineering Places and Performances 
+ipec4377.001.17s,ipec,4377,IPEC 4377,27002,Politics of International Finance 
+ipec4v98.075.17s,ipec,4v98,IPEC 4v98,23976,Internship 
+isah2130.001.17s,isah,2130,ISAH 2130,20549,Careers for Arts and Humanities Majors 
+isah4v50.001.17s,isah,4v50,ISAH 4v50,20320,Internship 
+isis3309.001.17s,isis,3309,ISIS 3309,27597,Dental Anthropology 
+isis3312.001.17s,isis,3312,ISIS 3312,24043,Women in Management 
+isis3335.501.17s,isis,3335,ISIS 3335,27702,United States and East Asia 
+isis4303.001.17s,isis,4303,ISIS 4303,27701,"Business, Law and Culture "
+isis4v89.001.17s,isis,4v89,ISIS 4v89,27695,Special Topics in Interdisciplinary Studies 
+isns2359.0w1.17s,isns,2359,ISNS 2359,26386,Earthquakes and Volcanoes 
+isns2367.001.17s,isns,2367,ISNS 2367,26389,The Oceans 
+isns2368.001.17s,isns,2368,ISNS 2368,26588,Weather and Climate 
+isns3373.001.17s,isns,3373,ISNS 3373,27611,Our Nearest Neighbors in the Sky 
+itss3100.001.17s,itss,3100,ITSS 3100,25104,Professional Development 
+itss3211.001.17s,itss,3211,ITSS 3211,25136,Introduction to Programming 
+itss3300.001.17s,itss,3300,ITSS 3300,25138,Information Technology for Business 
+itss3312.001.17s,itss,3312,ITSS 3312,25151,Object-Oriented Programming 
+itss3390.001.17s,itss,3390,ITSS 3390,27419,Web Design and Development for Business Applications 
+itss4300.001.17s,itss,4300,ITSS 4300,25153,Database Fundamentals 
+itss4301.001.17s,itss,4301,ITSS 4301,25154,Database Systems 
+itss4312.001.17s,itss,4312,ITSS 4312,25155,Mobile Web Application Development 
+itss4320.501.17s,itss,4320,ITSS 4320,25233,Introduction to Healthcare Information Systems 
+itss4330.001.17s,itss,4330,ITSS 4330,25156,Systems Analysis and Design 
+itss4340.501.17s,itss,4340,ITSS 4340,25157,Enterprise Resource Planning 
+itss4342.001.17s,itss,4342,ITSS 4342,25046,Analysis and Design of Accounting Systems 
+itss4343.501.17s,itss,4343,ITSS 4343,26973,Integrated SCM Information Systems 
+itss4351.001.17s,itss,4351,ITSS 4351,25158,Foundations of Business Intelligence 
+itss4352.001.17s,itss,4352,ITSS 4352,25159,Introduction to Web Analytics 
+itss4354.001.17s,itss,4354,ITSS 4354,25160,Managing Big Data 
+itss4370.501.17s,itss,4370,ITSS 4370,25161,Information Technology Infrastructure Management 
+itss4380.501.17s,itss,4380,ITSS 4380,27688,Advanced Database Management 
+itss4390.001.17s,itss,4390,ITSS 4390,25162,Information Systems Capstone 
+japn1312.001.17s,japn,1312,JAPN 1312,20222,Beginning Japanese II 
+japn2312.001.17s,japn,2312,JAPN 2312,20423,Intermediate Japanese II 
+japn3312.501.17s,japn,3312,JAPN 3312,27581,Advanced Japanese II 
+lang2v42.001.17s,lang,2v42,LANG 2v42,27691,Topics in Language 
+lit2331.502.17s,lit,2331,LIT 2331,20424,Masterpieces of World Literature 
+lit2341.502.17s,lit,2341,LIT 2341,26995,Literary Analysis 
+lit3300.501.17s,lit,3300,LIT 3300,26998,Western Literary Tradition 
+lit3310.001.17s,lit,3310,LIT 3310,20562,Studies in Epic and Romance 
+lit3315.001.17s,lit,3315,LIT 3315,20164,Children's Literature 
+lit3317.501.17s,lit,3317,LIT 3317,20427,The Literature of Fantasy 
+lit3319.501.17s,lit,3319,LIT 3319,20540,Periods in English Literature 
+lit3322.501.17s,lit,3322,LIT 3322,20541,Early American Literature 
+lit3326.001.17s,lit,3326,LIT 3326,20321,The Literature of the American South 
+lit3328.001.17s,lit,3328,LIT 3328,27224,Ethics in Literature 
+lit3330.001.17s,lit,3330,LIT 3330,20564,Linguistics 
+lit3332.501.17s,lit,3332,LIT 3332,20146,English Syntax and Mechanical Structure 
+lit3335.001.17s,lit,3335,LIT 3335,20469,Media and Pop Culture 
+lit3339.001.17s,lit,3339,LIT 3339,20428,Writing in Literary Studies 
+lit3380.001.17s,lit,3380,LIT 3380,20383,Studies in Women's Literature 
+lit4329.001.17s,lit,4329,LIT 4329,27226,Major Authors 
+lit4348.501.17s,lit,4348,LIT 4348,27789,Topics in Literary Studies 
+mais5300.501.17s,mais,5300,MAIS 5300,27438,Foundations of Interdisciplinary Inquiry 
+mais5303.002.17s,mais,5303,MAIS 5303,24000,Research Project 
+mais5321.0w1.17s,mais,5321,MAIS 5321,24116,Library Research Skills 
+mais5335.5h1.17s,mais,5335,MAIS 5335,27596,Crisis Communication in Schools and Organizations 
+mais5v38.001.17s,mais,5v38,MAIS 5v38,24108,Co-Op Education 
+mas6v05.001.17s,mas,6v05,MAS 6v05,27836,Special Topics in Marketing Management 
+math1306.001.17s,math,1306,MATH 1306,26226,College Algebra for the Non-Scientist 
+math1314.003.17s,math,1314,MATH 1314,26479,College Algebra 
+math1316.002.17s,math,1316,MATH 1316,26480,Trigonometry 
+math1325.002.17s,math,1325,MATH 1325,25942,Applied Calculus I 
+math1326.503.17s,math,1326,MATH 1326,26672,Applied Calculus II 
+math2312.701.17s,math,2312,MATH 2312,25949,Precalculus 
+math2333.701.17s,math,2333,MATH 2333,25951,"Matrices, Vectors, and Their Application "
+math2370.001.17s,math,2370,MATH 2370,27404,Introduction to Programming with MATLAB 
+math2413.007.17s,math,2413,MATH 2413,26501,Differential Calculus 
+math2414.338.17s,math,2414,MATH 2414,27558,Integral Calculus 
+math2415.301.17s,math,2415,MATH 2415,26327,Calculus of Several Variables 
+math2417.005.17s,math,2417,MATH 2417,26328,Calculus I 
+math2418.898.17s,math,2418,MATH 2418,27342,Linear Algebra 
+math2419.004.17s,math,2419,MATH 2419,26066,Calculus II 
+math2420.003.17s,math,2420,MATH 2420,26330,Differential Equations with Applications 
+math2451.001.17s,math,2451,MATH 2451,26008,Multivariable Calculus with Applications 
+math3303.001.17s,math,3303,MATH 3303,26076,Introduction to Mathematical Modeling 
+math3307.001.17s,math,3307,MATH 3307,26090,Mathematical Problem Solving for Teachers 
+math3310.002.17s,math,3310,MATH 3310,26345,Theoretical Concepts of Calculus 
+math3311.001.17s,math,3311,MATH 3311,25937,Abstract Algebra I 
+math3312.001.17s,math,3312,MATH 3312,25883,Abstract Algebra II 
+math3321.001.17s,math,3321,MATH 3321,25884,Geometry 
+math3379.001.17s,math,3379,MATH 3379,25885,Complex Variables 
+math3380.001.17s,math,3380,MATH 3380,26488,Differential Geometry 
+math4301.y01.17s,math,4301,MATH 4301,26540,Mathematical Analysis I 
+math4302.001.17s,math,4302,MATH 4302,25886,Mathematical Analysis II 
+math4334.001.17s,math,4334,MATH 4334,26074,Numerical Analysis 
+math4355.501.17s,math,4355,MATH 4355,26171,Methods of Applied Mathematics 
+math4362.001.17s,math,4362,MATH 4362,26519,Partial Differential Equations 
+math5302.001.17s,math,5302,MATH 5302,25887,Elementary Analysis II 
+math6302.501.17s,math,6302,MATH 6302,26489,Functional Analysis I 
+math6309.001.17s,math,6309,MATH 6309,26830,Differential Geometry 
+math6311.001.17s,math,6311,MATH 6311,26831,Abstract Algebra I 
+math6318.501.17s,math,6318,MATH 6318,26832,Numerical Analysis of Differential Equations 
+math6320.501.17s,math,6320,MATH 6320,26833,Principles and Techniques in Applied Mathematics II 
+math6321.001.17s,math,6321,MATH 6321,26490,Optimization 
+math6327.501.17s,math,6327,MATH 6327,26834,Stability and Bifurcations of Switched Systems 
+math6390.002.17s,math,6390,MATH 6390,26835,Topics in Mathematics - Level 6 
+mech1208.301.17s,mech,1208,MECH 1208,23044,Introduction to Mechanical Engineering II 
+mech2120.101.17s,mech,2120,MECH 2120,22079,Mechanics of Materials Laboratory 
+mech2310.001.17s,mech,2310,MECH 2310,22225,Statics 
+mech2320.001.17s,mech,2320,MECH 2320,22076,Mechanics of Materials 
+mech2330.002.17s,mech,2330,MECH 2330,22686,Dynamics 
+mech3105.101.17s,mech,3105,MECH 3105,22081,Computer Aided Design Laboratory 
+mech3115.101.17s,mech,3115,MECH 3115,22083,Fluid Mechanics Laboratory 
+mech3120.101.17s,mech,3120,MECH 3120,23042,Heat Transfer Laboratory 
+mech3150.101.17s,mech,3150,MECH 3150,22518,Kinematics and Dynamics Laboratory 
+mech3305.001.17s,mech,3305,MECH 3305,22077,Computer Aided Design 
+mech3310.001.17s,mech,3310,MECH 3310,22619,Thermodynamics 
+mech3315.001.17s,mech,3315,MECH 3315,22078,Fluid Mechanics 
+mech3320.002.17s,mech,3320,MECH 3320,23132,Heat Transfer 
+mech3350.501.17s,mech,3350,MECH 3350,26938,Kinematics and Dynamics of Mechanical Systems 
+mech3351.001.17s,mech,3351,MECH 3351,22621,Design of Mechanical Systems 
+mech3360.001.17s,mech,3360,MECH 3360,23101,Introduction to Materials Science 
+mech3v95.001.17s,mech,3v95,MECH 3v95,26934,Topics in Mechanical Engineering 
+mech4110.101.17s,mech,4110,MECH 4110,22519,Systems and Controls Laboratory 
+mech4310.001.17s,mech,4310,MECH 4310,23133,Systems and Controls 
+mech4330.501.17s,mech,4330,MECH 4330,23275,Intermediate Fluid Mechanics 
+mech4360.001.17s,mech,4360,MECH 4360,22688,Introduction to Nanostructured Materials 
+mech4370.501.17s,mech,4370,MECH 4370,23135,Introduction to MEMS 
+mech4380.001.17s,mech,4380,MECH 4380,23134,HVAC Systems 
+mech4381.201.17s,mech,4381,MECH 4381,22622,Senior Design Project I 
+mech4382.001.17s,mech,4382,MECH 4382,27361,Senior Design Project II 
+mech5310.001.17s,mech,5310,MECH 5310,27656,Intermediate Dynamics 
+mech6300.001.17s,mech,6300,MECH 6300,22544,Linear Systems 
+mech6306.001.17s,mech,6306,MECH 6306,23238,Continuum Mechanics 
+mech6312.001.17s,mech,6312,MECH 6312,22623,Random Processes 
+mech6313.001.17s,mech,6313,MECH 6313,22998,Nonlinear Systems 
+mech6314.001.17s,mech,6314,MECH 6314,22725,Engineering Systems: Modeling and Simulation 
+mech6316.001.17s,mech,6316,MECH 6316,26890,Digital Control of Automotive Powertrain Systems 
+mech6317.001.17s,mech,6317,MECH 6317,23186,Dynamics of Complex Networks and Systems 
+mech6333.501.17s,mech,6333,MECH 6333,27740,Materials Design and Manufacturing 
+mech6337.001.17s,mech,6337,MECH 6337,22934,"Systems Engineering, Architecture and Design "
+mech6338.001.17s,mech,6338,MECH 6338,27655,Reliability-Based Design 
+mech6347.501.17s,mech,6347,MECH 6347,22517,Introduction to MEMS 
+mech6353.001.17s,mech,6353,MECH 6353,22689,Computational Mechanics 
+mech6367.001.17s,mech,6367,MECH 6367,27040,Mechanical Properties of Materials 
+mech6368.501.17s,mech,6368,MECH 6368,27657,Imperfections in Solids 
+mech6371.001.17s,mech,6371,MECH 6371,27099,Computational Fluid Dynamics 
+mech6373.001.17s,mech,6373,MECH 6373,23136,Convective Heat Transfer 
+mech6393.501.17s,mech,6393,MECH 6393,26937,Advanced Mathematics for Mechanical Engineers II 
+mech6v49.501.17s,mech,6v49,MECH 6v49,22982,Special Topics in Manufacturing and Design Innovation 
+mech6v89.001.17s,mech,6v89,MECH 6v89,22927,Special Topics in Thermal and Fluid Sciences 
+mech7100.001.17s,mech,7100,MECH 7100,27812,Seminar in Mechanical Engineering 
+meco3300.001.17s,meco,3300,MECO 3300,25071,Introduction to Energy Technology 
+meco3340.001.17s,meco,3340,MECO 3340,27609,Energy Law and Contracts 
+meco4351.001.17s,meco,4351,MECO 4351,26780,Industrial Organization and Corporate Strategy 
+meco6303.501.17s,meco,6303,MECO 6303,24923,Business Economics 
+meco6312.001.17s,meco,6312,MECO 6312,24879,Applied Econometrics and Time Series Analysis 
+meco6350.001.17s,meco,6350,MECO 6350,24880,Game Theory 
+meco6352.0w1.17s,meco,6352,MECO 6352,26898,Financial Negotiation and Dispute Resolution 
+meco6355.001.17s,meco,6355,MECO 6355,24881,Deal Making Strategies 
+meco7311.001.17s,meco,7311,MECO 7311,25188,Advanced Game Theory 
+meco7313.001.17s,meco,7313,MECO 7313,25189,Applied Econometrics 
+mils1141.001.17s,mils,1141,MILS 1141,27627,foundations of leadership
+mils180.101.17s,mils,180,MILS 180,27635,leadership lab
+mils2251.001.17s,mils,2251,MILS 2251,27628,individual/team development
+mils2291.001.17s,mils,2291,MILS 2291,27629,conference course
+mils3341.001.17s,mils,3341,MILS 3341,27630,leadership i
+mils4341.001.17s,mils,4341,MILS 4341,27631,adv leadership i
+mils4391.001.17s,mils,4391,MILS 4391,27632,conference course
+mis6204.591.17s,mis,6204,MIS 6204,24539,Information Technology for Management 
+mis6302.0w1.17s,mis,6302,MIS 6302,24931,Information Technology Strategy and Management 
+mis6308.0w1.17s,mis,6308,MIS 6308,24444,System Analysis and Project Management 
+mis6309.501.17s,mis,6309,MIS 6309,24541,Business Data Warehousing 
+mis6311.501.17s,mis,6311,MIS 6311,24892,Cybersecurity Fundamentals 
+mis6316.501.17s,mis,6316,MIS 6316,24542,Data Communications 
+mis6317.0w1.17s,mis,6317,MIS 6317,25186,Healthcare Informatics 
+mis6319.501.17s,mis,6319,MIS 6319,24756,Enterprise Resource Planning 
+mis6320.001.17s,mis,6320,MIS 6320,24757,Database Foundations 
+mis6323.001.17s,mis,6323,MIS 6323,24543,Object Oriented Programming 
+mis6324.001.17s,mis,6324,MIS 6324,24545,Business Analytics With SAS 
+mis6326.501.17s,mis,6326,MIS 6326,24896,Data Management 
+mis6330.0w1.17s,mis,6330,MIS 6330,24546,Information Technology Security 
+mis6332.001.17s,mis,6332,MIS 6332,24897,Advanced ERP: Configurations 
+mis6334.501.17s,mis,6334,MIS 6334,24547,Advanced Business Analytics With SAS 
+mis6337.501.17s,mis,6337,MIS 6337,27031,Information Technology Audit and Risk Management 
+mis6338.001.17s,mis,6338,MIS 6338,25050,Accounting Systems Integration and Configuration 
+mis6339.501.17s,mis,6339,MIS 6339,25222,Analytical Reviews Using Audit Software 
+mis6344.002.17s,mis,6344,MIS 6344,24549,Web Analytics 
+mis6345.0w1.17s,mis,6345,MIS 6345,26945,High Performance Analytics 
+mis6346.501.17s,mis,6346,MIS 6346,26946,Big Data Analytics 
+mis6356.502.17s,mis,6356,MIS 6356,26947,Business Analytics With R 
+mis6360.001.17s,mis,6360,MIS 6360,24550,Agile Project Management 
+mis6363.001.17s,mis,6363,MIS 6363,24980,Cloud Computing 
+mis6369.0w1.17s,mis,6369,MIS 6369,24790,Supply Chain Software 
+mis6372.501.17s,mis,6372,MIS 6372,27075,IT Services Management 
+mis6373.501.17s,mis,6373,MIS 6373,24643,Social Media and Business 
+mis6380.001.17s,mis,6380,MIS 6380,25173,Data Visualization 
+mis6v98.016.17s,mis,6v98,MIS 6v98,24551,Information Systems Internship 
+mis6v99.501.17s,mis,6v99,MIS 6v99,27908,Special Topics in Management Information Systems 
+mis7220.001.17s,mis,7220,MIS 7220,24553,Colloquium in Management Information Systems 
+mis7420.001.17s,mis,7420,MIS 7420,24554,Seminar in Management Information Systems 
+mkt3100.002.17s,mkt,3100,MKT 3100,26977,Professional Development 
+mkt3300.001.17s,mkt,3300,MKT 3300,24556,Principles of Marketing 
+mkt3320.001.17s,mkt,3320,MKT 3320,24744,Product and Brand Management 
+mkt3330.004.17s,mkt,3330,MKT 3330,24884,Introduction to Professional Selling 
+mkt3340.002.17s,mkt,3340,MKT 3340,24885,Marketing Research 
+mkt4320.501.17s,mkt,4320,MKT 4320,27026,International Marketing 
+mkt4330.001.17s,mkt,4330,MKT 4330,24569,Digital and Internet Marketing 
+mkt4331.001.17s,mkt,4331,MKT 4331,24921,Digital Prospecting 
+mkt4332.001.17s,mkt,4332,MKT 4332,24746,Advanced Personal Selling 
+mkt4334.001.17s,mkt,4334,MKT 4334,24747,Social Media Marketing 
+mkt4337.501.17s,mkt,4337,MKT 4337,27571,Marketing Analytics 
+mkt4340.001.17s,mkt,4340,MKT 4340,24570,Consumer Behavior 
+mkt4350.001.17s,mkt,4350,MKT 4350,24571,Advertising 
+mkt4380.001.17s,mkt,4380,MKT 4380,24572,Capstone Course in Marketing 
+mkt4v93.001.17s,mkt,4v93,MKT 4v93,28007,Seminar Series in Marketing 
+mkt6301.0w1.17s,mkt,6301,MKT 6301,24575,Marketing Management 
+mkt6309.001.17s,mkt,6309,MKT 6309,24576,Marketing Research 
+mkt6310.0w1.17s,mkt,6310,MKT 6310,24578,Consumer Behavior 
+mkt6321.0w1.17s,mkt,6321,MKT 6321,25192,Interactive and Digital Marketing 
+mkt6323.501.17s,mkt,6323,MKT 6323,24886,Database Marketing 
+mkt6329.501.17s,mkt,6329,MKT 6329,24580,New Product Development 
+mkt6330.0w1.17s,mkt,6330,MKT 6330,24581,Brand Management 
+mkt6332.501.17s,mkt,6332,MKT 6332,24582,Advertising and Promotional Strategy 
+mkt6334.501.17s,mkt,6334,MKT 6334,24922,Digital Sales Strategy 
+mkt6337.502.17s,mkt,6337,MKT 6337,24887,Marketing Predictive Analytics Using SAS 
+mkt6339.501.17s,mkt,6339,MKT 6339,24583,Capstone Marketing Decision Making 
+mkt6365.601.17s,mkt,6365,MKT 6365,25179,Marketing Digital Lab 
+mkt6382.501.17s,mkt,6382,MKT 6382,27000,Professional Selling I 
+mkt6v99.001.17s,mkt,6v99,MKT 6v99,24944,Special Topics in Marketing 
+msen5300.501.17s,msen,5300,MSEN 5300,23051,Introduction to Materials Science 
+msen5341.001.17s,msen,5341,MSEN 5341,22584,Advanced Inorganic Chemistry I 
+msen5355.001.17s,msen,5355,MSEN 5355,27370,Analytical Techniques I 
+msen5360.001.17s,msen,5360,MSEN 5360,22068,Materials Characterization 
+msen5371.001.17s,msen,5371,MSEN 5371,27371,Solid State Physics 
+msen5410.001.17s,msen,5410,MSEN 5410,22830,Biochemistry 
+msen5440.001.17s,msen,5440,MSEN 5440,22583,Cell Biology 
+msen6310.001.17s,msen,6310,MSEN 6310,27056,Mechanical Properties of Materials 
+msen6321.501.17s,msen,6321,MSEN 6321,22543,Active Semiconductor Devices 
+msen6323.001.17s,msen,6323,MSEN 6323,26866,Quantum Mechanics for Materials Scientists II 
+msen6324.001.17s,msen,6324,MSEN 6324,26867,"Electronic, Optical and Magnetic Materials "
+msen6327.001.17s,msen,6327,MSEN 6327,22877,Semiconductor Device Characterization 
+msen6340.001.17s,msen,6340,MSEN 6340,22673,Advanced Electron Microscopy 
+msen6341.101.17s,msen,6341,MSEN 6341,22674,Advanced Electron Microscopy Laboratory 
+msen6355.001.17s,msen,6355,MSEN 6355,22905,Nanotechnology and Sensors 
+msen6382.501.17s,msen,6382,MSEN 6382,22516,Introduction to MEMS 
+msen7v80.001.17s,msen,7v80,MSEN 7v80,27791,Special Topics in Materials Science and Engineering 
+mthe5321.501.17s,mthe,5321,MTHE 5321,27853,Problems Using Algebra 
+musi1306.501.17s,musi,1306,MUSI 1306,20391,Understanding Music 
+musi2113.501.17s,musi,2113,MUSI 2113,20147,Pep Band 
+musi2127.001.17s,musi,2127,MUSI 2127,27435,University Choir 
+musi2315.501.17s,musi,2315,MUSI 2315,20329,Guitar I 
+musi2317.002.17s,musi,2317,MUSI 2317,20323,Piano I 
+musi2319.001.17s,musi,2319,MUSI 2319,20151,Digital Music I 
+musi2322.001.17s,musi,2322,MUSI 2322,20543,Music in Western Civilization 
+musi2325.001.17s,musi,2325,MUSI 2325,20152,Vocal Instruction I 
+musi2328.001.17s,musi,2328,MUSI 2328,20223,Music Theory I 
+musi3325.001.17s,musi,3325,MUSI 3325,20335,Jazz History: Modern Jazz since BeBop 
+musi3328.001.17s,musi,3328,MUSI 3328,20544,Music Theory II 
+musi3382.001.17s,musi,3382,MUSI 3382,27556,Vocal Instruction II 
+musi3388.001.17s,musi,3388,MUSI 3388,20153,Piano II 
+musi3389.001.17s,musi,3389,MUSI 3389,27229,Digital Music II 
+musi4118.501.17s,musi,4118,MUSI 4118,27230,Advanced String Orchestra III 
+musi4120.501.17s,musi,4120,MUSI 4120,27231,Wind Ensemble III 
+musi4312.001.17s,musi,4312,MUSI 4312,20375,Advanced Orchestra/Chamber Music Ensemble II 
+musi4316.501.17s,musi,4316,MUSI 4316,20334,Guitar Ensemble III 
+musi4345.001.17s,musi,4345,MUSI 4345,20376,Music Performance III 
+musi4347.501.17s,musi,4347,MUSI 4347,20154,Vocal Ensemble III 
+musi4385.001.17s,musi,4385,MUSI 4385,20324,Chamber Singers II 
+musi4386.001.17s,musi,4386,MUSI 4386,20325,Jazz Ensemble III 
+musi4v13.001.17s,musi,4v13,MUSI 4v13,27232,Advanced Performance II 
+nano3301.001.17s,nano,3301,NANO 3301,22084,Introduction to Nanoscience and Nanotechnology 
+nano3302.001.17s,nano,3302,NANO 3302,26869,"Microscopy, Spectroscopy, and Nanotech Instrumentation "
+nano3310.001.17s,nano,3310,NANO 3310,23050,Introduction to Materials Science 
+nats1141.001.17s,nats,1141,NATS 1141,26332,UTeach STEP 1 
+nats1143.003.17s,nats,1143,NATS 1143,26334,UTeach STEP 2 
+nats2333.001.17s,nats,2333,NATS 2333,26162,"Energy, Water, and the Environment "
+nats3341.001.17s,nats,3341,NATS 3341,26367,Knowing and Learning in Mathematics and Science 
+nats3343.001.17s,nats,3343,NATS 3343,25917,Classroom Interactions 
+nats4141.501.17s,nats,4141,NATS 4141,25920,UTeach Apprentice Teaching Seminar 
+nats4341.001.17s,nats,4341,NATS 4341,26368,Project-Based Instruction 
+nats4390.001.17s,nats,4390,NATS 4390,26499,Research Methods 
+nats4694.001.17s,nats,4694,NATS 4694,25921,"UTeach Apprentice Teaching, 7-12 Science and Mathematics "
+nats4696.001.17s,nats,4696,NATS 4696,25922,"UTeach Apprentice Teaching, 4-8 Science and Mathematics "
+nsc3344.001.17s,nsc,3344,NSC 3344,21298,Anatomy and Physiology of Speech and Hearing 
+nsc3345.001.17s,nsc,3345,NSC 3345,21305,Neural Basis of Communication 
+nsc3361.001.17s,nsc,3361,NSC 3361,21159,Introduction to Neuroscience 
+nsc4351.001.17s,nsc,4351,NSC 4351,27798,Medical Neuroscience 
+nsc4352.001.17s,nsc,4352,NSC 4352,21161,Cellular Neuroscience 
+nsc4353.103.17s,nsc,4353,NSC 4353,21239,Neuroscience Laboratory Methods 
+nsc4354.501.17s,nsc,4354,NSC 4354,21470,Integrative Neuroscience 
+nsc4356.001.17s,nsc,4356,NSC 4356,21164,Neurophysiology 
+nsc4357.001.17s,nsc,4357,NSC 4357,21482,Neurobiology of Learning and Memory 
+nsc4358.001.17s,nsc,4358,NSC 4358,21270,Neuroscience of Pain 
+nsc4359.001.17s,nsc,4359,NSC 4359,21463,Cognitive Neuroscience 
+nsc4362.001.17s,nsc,4362,NSC 4362,21324,Molecular Neuroscience 
+nsc4363.001.17s,nsc,4363,NSC 4363,21165,Neuropharmacology 
+nsc4366.001.17s,nsc,4366,NSC 4366,21240,Neuroanatomy 
+nsc4367.001.17s,nsc,4367,NSC 4367,21356,Developmental Neurobiology 
+nsc4371.001.17s,nsc,4371,NSC 4371,21323,Neural Plasticity 
+nsc4372.001.17s,nsc,4372,NSC 4372,27819,Neuroimmunology 
+nsc4375.001.17s,nsc,4375,NSC 4375,21492,Honors Seminar 
+nsc4394.001.17s,nsc,4394,NSC 4394,21158,Internship in Neuroscience 
+nsc4v90.hn1.17s,nsc,4v90,NSC 4v90,26905,Special Topics in Neuroscience 
+nsc4v95.001.17s,nsc,4v95,NSC 4v95,21415,Externship in Neuroscience 
+ob6301.501.17s,ob,6301,OB 6301,24431,Organizational Behavior 
+ob6321.501.17s,ob,6321,OB 6321,26899,Principles of Leadership 
+ob6332.001.17s,ob,6332,OB 6332,24434,Negotiation and Dispute Resolution 
+ob7302.001.17s,ob,7302,OB 7302,26900,Organization Behavior 
+ob7313.001.17s,ob,7313,OB 7313,26901,Seminar on Organizational Decision Making 
+obhr3310.hon.17s,obhr,3310,OBHR 3310,25110,Organizational Behavior 
+obhr3330.001.17s,obhr,3330,OBHR 3330,26756,Introduction to Human Resource Management 
+obhr4310.001.17s,obhr,4310,OBHR 4310,24787,Business Ethics 
+obhr4331.501.17s,obhr,4331,OBHR 4331,27448,Compensation and Benefits Administration 
+obhr4350.501.17s,obhr,4350,OBHR 4350,24738,Introduction to Leading and Managing 
+obhr4352.001.17s,obhr,4352,OBHR 4352,24601,Negotiation and Dispute Resolution 
+obhr4354.001.17s,obhr,4354,OBHR 4354,26902,Leading Organizational Change 
+obhr4360.001.17s,obhr,4360,OBHR 4360,24780,Capstone in Organizational Behavior 
+opre3310.007.17s,opre,3310,OPRE 3310,24888,Operations Management 
+opre3320.001.17s,opre,3320,OPRE 3320,24610,Supply Chain Management 
+opre3330.501.17s,opre,3330,OPRE 3330,24611,Project Management 
+opre3333.501.17s,opre,3333,OPRE 3333,24771,Quantitative Business Analysis 
+opre3360.0w1.17s,opre,3360,OPRE 3360,24930,Managerial Methods in Decision Making Under Uncertainty 
+opre4310.001.17s,opre,4310,OPRE 4310,27308,Lean and Six Sigma Processes 
+opre4320.501.17s,opre,4320,OPRE 4320,26871,Integrated SCM Information Systems 
+opre4340.001.17s,opre,4340,OPRE 4340,24781,Purchasing and Sourcing Management 
+opre4360.001.17s,opre,4360,OPRE 4360,24779,Capstone Projects in Supply Chain Management 
+opre6301.003.17s,opre,6301,OPRE 6301,24934,Quantitative Introduction to Risk and Uncertainty in Business 
+opre6302.001.17s,opre,6302,OPRE 6302,25121,Operations Management 
+opre6303.0w1.17s,opre,6303,OPRE 6303,24755,Quantitative Foundations of Business 
+opre6332.502.17s,opre,6332,OPRE 6332,25122,Spreadsheet Modeling and Analytics 
+opre6341.001.17s,opre,6341,OPRE 6341,25208,Retail Operations 
+opre6355.001.17s,opre,6355,OPRE 6355,25244,Deal Making Strategies 
+opre6362.001.17s,opre,6362,OPRE 6362,24447,Project Management in Engineering and Operations 
+opre6364.002.17s,opre,6364,OPRE 6364,24976,Lean Six Sigma 
+opre6366.501.17s,opre,6366,OPRE 6366,24961,Global Supply Chain Management 
+opre6367.501.17s,opre,6367,OPRE 6367,24782,Capstone Projects in Supply Chain Management 
+opre6369.0w1.17s,opre,6369,OPRE 6369,24791,Supply Chain Software 
+opre6370.0w1.17s,opre,6370,OPRE 6370,25123,Global Logistics and Transportation 
+opre6371.501.17s,opre,6371,OPRE 6371,24633,"Purchasing, Sourcing and Contract Management "
+opre6378.001.17s,opre,6378,OPRE 6378,24890,Supply Chain Strategy 
+opre6379.501.17s,opre,6379,OPRE 6379,25266,Product Lifecycle Management 
+opre6389.501.17s,opre,6389,OPRE 6389,24794,"Managing Energy: Risk, Investment, Technology "
+opre6393.501.17s,opre,6393,OPRE 6393,26951,Database Foundations 
+opre6398.002.17s,opre,6398,OPRE 6398,27874,Prescriptive Analytics 
+opre6399.004.17s,opre,6399,OPRE 6399,26956,Business Analytics With SAS 
+opre6v98.016.17s,opre,6v98,OPRE 6v98,24634,Supply Chain Management Internship 
+opre6v99.002.17s,opre,6v99,OPRE 6v99,27916,Special Topics in Operations Research 
+opre7309.001.17s,opre,7309,OPRE 7309,27933,Behavioral Operations Management 
+opre7311.001.17s,opre,7311,OPRE 7311,24636,Stochastic Models in Operations Research 
+opre7320.001.17s,opre,7320,OPRE 7320,24586,Optimal Control Theory and Applications 
+opre7351.001.17s,opre,7351,OPRE 7351,25267,Seminar in Operations Management 
+pa2325.0w1.17s,pa,2325,PA 2325,23828,Introduction to Public Service 
+pa3310.001.17s,pa,3310,PA 3310,23829,Public Management 
+pa3333.001.17s,pa,3333,PA 3333,23478,Human Resources Management 
+pa3378.001.17s,pa,3378,PA 3378,27864,Public Finance and Economics 
+pa3379.001.17s,pa,3379,PA 3379,27109,Diversity in the Public Sector 
+pa3380.001.17s,pa,3380,PA 3380,23944,Organizations: Theory and Behavior 
+pa3381.001.17s,pa,3381,PA 3381,27687,Field Research Methods 
+pa4340.001.17s,pa,4340,PA 4340,23738,Creating High Performance Organizations 
+pa4345.001.17s,pa,4345,PA 4345,23830,Negotiation and Conflict Resolution 
+pa4352.001.17s,pa,4352,PA 4352,27110,Emerging Communication Strategies in Public Service Organizations 
+pa6311.501.17s,pa,6311,PA 6311,23945,Public Management 
+pa6315.501.17s,pa,6315,PA 6315,23968,Evaluating Program and Organizational Performance 
+pa6320.501.17s,pa,6320,PA 6320,23721,Organizational Theory 
+pa6324.501.17s,pa,6324,PA 6324,23832,Urban Planning 
+pa6326.501.17s,pa,6326,PA 6326,23943,Decision Tools for Managers 
+pa6342.501.17s,pa,6342,PA 6342,23745,Local Economic Development 
+pa6344.0w1.17s,pa,6344,PA 6344,23833,Local Government Management 
+pa6374.0w1.17s,pa,6374,PA 6374,27111,Financial Management for Nonprofit Organizations 
+pa6382.501.17s,pa,6382,PA 6382,23850,Nonprofit Management 
+pa6386.501.17s,pa,6386,PA 6386,27112,Diversity Management 
+pa6399.501.17s,pa,6399,PA 6399,23743,Capstone in Public Affairs 
+pa7314.501.17s,pa,7314,PA 7314,23834,"Advanced Policy Process, Implementation and Evaluation "
+pa7350.001.17s,pa,7350,PA 7350,23835,Advanced Organizational Theory and Behavior 
+pa7360.001.17s,pa,7360,PA 7360,27113,Advanced Fiscal and Budgetary Policy 
+pa7377.501.17s,pa,7377,PA 7377,27114,Education Policy 
+phil1301.002.17s,phil,1301,PHIL 1301,27887,Introduction to Philosophy 
+phil2317.001.17s,phil,2317,PHIL 2317,27235,History of Philosophy II 
+phil4305.001.17s,phil,4305,PHIL 4305,27240,Philosophical Concepts 
+phin1100.001.17s,phin,1100,PHIN 1100,24035,Sports Conditioning 
+phin1102.001.17s,phin,1102,PHIN 1102,24058,Racquetball 
+phin1103.001.17s,phin,1103,PHIN 1103,24135,Beginning Tennis 
+phin1106.001.17s,phin,1106,PHIN 1106,24059,Aerobics 
+phin1120.001.17s,phin,1120,PHIN 1120,24060,Beginning Yoga 
+phin1121.501.17s,phin,1121,PHIN 1121,24062,Martial Arts and Self-Defense 
+phin1122.001.17s,phin,1122,PHIN 1122,24063,Physical Fitness and Conditioning 
+phin1129.001.17s,phin,1129,PHIN 1129,24036,Beginning Swimming 
+phin1130.001.17s,phin,1130,PHIN 1130,27693,Intermediate Swimming 
+phin2102.001.17s,phin,2102,PHIN 2102,27694,Racquetball II 
+phin2125.001.17s,phin,2125,PHIN 2125,24041,Intermediate Yoga 
+phys1301.001.17s,phys,1301,PHYS 1301,25923,College Physics I 
+phys1302.001.17s,phys,1302,PHYS 1302,25648,College Physics II 
+phys2125.607.17s,phys,2125,PHYS 2125,26682,Physics Laboratory I 
+phys2126.113.17s,phys,2126,PHYS 2126,26339,Physics Laboratory II 
+phys2303.001.17s,phys,2303,PHYS 2303,25652,Contemporary Physics 
+phys2325.003.17s,phys,2325,PHYS 2325,26369,Mechanics 
+phys2326.001.17s,phys,2326,PHYS 2326,25655,Electromagnetism and Waves 
+phys2421.hn1.17s,phys,2421,PHYS 2421,26344,Honors Physics I - Mechanics and Heat 
+phys3312.001.17s,phys,3312,PHYS 3312,26146,Classical Mechanics 
+phys3327.001.17s,phys,3327,PHYS 3327,26551,Electronics with Laboratory 
+phys3411.001.17s,phys,3411,PHYS 3411,25929,Theoretical Physics 
+phys4302.001.17s,phys,4302,PHYS 4302,26160,Quantum Mechanics II 
+phys4311.001.17s,phys,4311,PHYS 4311,25657,Thermodynamics and Statistical Mechanics 
+phys4328.001.17s,phys,4328,PHYS 4328,25658,Optics 
+phys4371.001.17s,phys,4371,PHYS 4371,26563,Solid State Physics 
+phys4373.101.17s,phys,4373,PHYS 4373,25659,Physical Measurements Laboratory 
+phys4392.001.17s,phys,4392,PHYS 4392,26849,Extragalactic Astrophysics 
+phys4v10.086.17s,phys,4v10,PHYS 4v10,26855,Special Topics in Physics 
+phys5302.501.17s,phys,5302,PHYS 5302,25663,Mathematical Methods of Physics II 
+phys5305.001.17s,phys,5305,PHYS 5305,27115,Monte Carlo Simulation Method and its Application 
+phys5313.001.17s,phys,5313,PHYS 5313,25664,Statistical Physics 
+phys5320.001.17s,phys,5320,PHYS 5320,25930,Electromagnetism I 
+phys5332.501.17s,phys,5332,PHYS 5332,27271,Conceptual Physics II: Particles and Systems 
+phys5371.001.17s,phys,5371,PHYS 5371,27155,Solid State Physics 
+phys5376.501.17s,phys,5376,PHYS 5376,27347,Introduction to Materials Science 
+phys5381.001.17s,phys,5381,PHYS 5381,27116,Space Science 
+phys5v48.001.17s,phys,5v48,PHYS 5v48,26848,Topics in Physics 
+phys6301.001.17s,phys,6301,PHYS 6301,25665,Quantum Mechanics II 
+phys8v80.086.17s,phys,8v80,PHYS 8v80,27152,Research in Atmospheric and Space Physics 
+phys8v99.171.17s,phys,8v99,PHYS 8v99,26183,Dissertation 
+ppol4301.001.17s,ppol,4301,PPOL 4301,27374,"Law, Science, and Policy "
+pppe6319.501.17s,pppe,6319,PPPE 6319,27068,Political Economy of MNCs 
+pppe6321.501.17s,pppe,6321,PPPE 6321,23838,Economics for Public Policy 
+pppe6342.001.17s,pppe,6342,PPPE 6342,23839,Research Design II 
+pppe6347.001.17s,pppe,6347,PPPE 6347,23925,Proseminar in Political Institutions and American Politics 
+pppe6356.001.17s,pppe,6356,PPPE 6356,27588,Health and Illness 
+pppe6365.0w1.17s,pppe,6365,PPPE 6365,27960,The Innovation Economy 
+pppe6366.501.17s,pppe,6366,PPPE 6366,27006,Law and Development 
+pppe6368.501.17s,pppe,6368,PPPE 6368,27003,Political Economy of Finance 
+pppe6372.501.17s,pppe,6372,PPPE 6372,27067,"Faith, Ideology, and Development "
+pppe6374.001.17s,pppe,6374,PPPE 6374,27375,U.S. Global Security and Public Opinion 
+pppe7319.001.17s,pppe,7319,PPPE 7319,27060,Economics of Education 
+pppe8398.001.17s,pppe,8398,PPPE 8398,23841,Dissertation Seminar 
+psci3301.001.17s,psci,3301,PSCI 3301,27699,Political Theory 
+psci3303.hn1.17s,psci,3303,PSCI 3303,26906,Civil Liberties 
+psci3310.001.17s,psci,3310,PSCI 3310,23826,Public Management 
+psci3326.001.17s,psci,3326,PSCI 3326,23785,Politics and Business 
+psci3333.001.17s,psci,3333,PSCI 3333,23479,Political Behavior 
+psci3362.001.17s,psci,3362,PSCI 3362,23536,The American Political Institutions 
+psci4301.001.17s,psci,4301,PSCI 4301,27069,"Law, Science, and Policy "
+psci4314.001.17s,psci,4314,PSCI 4314,27071,Political Economy of East Asia 
+psci4330.hn1.17s,psci,4330,PSCI 4330,26907,The Bible and Politics 
+psci4356.001.17s,psci,4356,PSCI 4356,23941,International Political Economy 
+psci4360.001.17s,psci,4360,PSCI 4360,27064,The Political Economy of Multinational Corporations 
+psci4364.001.17s,psci,4364,PSCI 4364,23789,Civil Rights Law and Society 
+psci4370.hn1.17s,psci,4370,PSCI 4370,23640,Policy Making Process 
+psci4372.hn1.17s,psci,4372,PSCI 4372,23641,Advocacy and Politics 
+psci4373.hn1.17s,psci,4373,PSCI 4373,23642,Politics of National Memory 
+psci4378.001.17s,psci,4378,PSCI 4378,27063,"Migration, Refugee and Asylum Policy and Law "
+psci4396.hn1.17s,psci,4396,PSCI 4396,23451,Selected Topics in Government and Politics 
+psci4v66.501.17s,psci,4v66,PSCI 4v66,23758,Mock Trial 
+psci4v67.hn1.17s,psci,4v67,PSCI 4v67,23741,Moot Court 
+psci6300.501.17s,psci,6300,PSCI 6300,23537,Proseminar in Comparative Politics and International Relations 
+psci6301.001.17s,psci,6301,PSCI 6301,27070,Constitutional Law 
+psci6331.001.17s,psci,6331,PSCI 6331,27008,"Executives, Legislatures and Public Policy "
+psci6347.001.17s,psci,6347,PSCI 6347,23964,Proseminar in Political Institutions and American Politics 
+psci6365.501.17s,psci,6365,PSCI 6365,27820,U.S. and International Asylum and Refugee Law 
+psci6374.001.17s,psci,6374,PSCI 6374,27065,U.S. Global Security and Public Opinion 
+psci7318.001.17s,psci,7318,PSCI 7318,27066,Conflict Management 
+psy2301.002.17s,psy,2301,PSY 2301,21279,Introduction to Psychology 
+psy2314.001.17s,psy,2314,PSY 2314,21179,Lifespan Development 
+psy2317.001.17s,psy,2317,PSY 2317,21167,Statistics for Psychology 
+psy3100.501.17s,psy,3100,PSY 3100,21411,Careers in Psychology 
+psy3310.002.17s,psy,3310,PSY 3310,27660,Child Development 
+psy3331.001.17s,psy,3331,PSY 3331,21366,Social Psychology 
+psy3332.001.17s,psy,3332,PSY 3332,21420,Social and Personality Development 
+psy3338.001.17s,psy,3338,PSY 3338,21171,Adolescence 
+psy3339.0h1.17s,psy,3339,PSY 3339,21172,Educational Psychology 
+psy3342.501.17s,psy,3342,PSY 3342,21173,Exceptional Children 
+psy3351.001.17s,psy,3351,PSY 3351,21402,Mass Communication and Behavior 
+psy3355.001.17s,psy,3355,PSY 3355,21184,Psychology of Creativity 
+psy3360.001.17s,psy,3360,PSY 3360,21174,Historical Perspectives on Psychology: Mind and Machines since 1600 
+psy3361.501.17s,psy,3361,PSY 3361,21175,Cognitive Psychology 
+psy3362.002.17s,psy,3362,PSY 3362,21483,Cognitive Development 
+psy3392.001.17s,psy,3392,PSY 3392,21176,Research Design and Analysis 
+psy3393.001.17s,psy,3393,PSY 3393,21271,Experimental Projects in Psychology 
+psy4323.001.17s,psy,4323,PSY 4323,21495,Cultural Diversity and Psychology 
+psy4324.501.17s,psy,4324,PSY 4324,21319,The Psychology of Prejudice 
+psy4325.001.17s,psy,4325,PSY 4325,21451,Death and Dying 
+psy4328.001.17s,psy,4328,PSY 4328,27313,Health Psychology 
+psy4331.001.17s,psy,4331,PSY 4331,27311,Personality 
+psy4332.001.17s,psy,4332,PSY 4332,21392,Psychology in the Workplace 
+psy4343.501.17s,psy,4343,PSY 4343,21180,Abnormal Psychology 
+psy4344.001.17s,psy,4344,PSY 4344,21408,Child Psychopathology 
+psy4346.001.17s,psy,4346,PSY 4346,21485,Human Sexuality 
+psy4359.001.17s,psy,4359,PSY 4359,21462,Cognitive Neuroscience 
+psy4372.001.17s,psy,4372,PSY 4372,21335,Forensic Psychology 
+psy4373.501.17s,psy,4373,PSY 4373,21181,Psychological Assessment 
+psy4375.001.17s,psy,4375,PSY 4375,21490,Honors Seminar 
+psy4377.001.17s,psy,4377,PSY 4377,21182,Conflict Resolution 
+psy4393.001.17s,psy,4393,PSY 4393,21306,Language in Culture and Society 
+psy4394.001.17s,psy,4394,PSY 4394,21183,Internship in Psychology 
+psy4395.001.17s,psy,4395,PSY 4395,21186,Co-op Fieldwork 
+psy4v90.hn1.17s,psy,4v90,PSY 4v90,27595,Special Topics in Psychology 
+psyc6313.001.17s,psyc,6313,PSYC 6313,21241,Research Methods in Behavioral and Brain Sciences - Part II 
+psyc6320.001.17s,psyc,6320,PSYC 6320,21261,The Developing Child: Toddler and Preschool Years 
+psyc6331.001.17s,psyc,6331,PSYC 6331,21480,Cognitive Development 
+psyc6332.001.17s,psyc,6332,PSYC 6332,27259,Perception 
+psyc6333.001.17s,psyc,6333,PSYC 6333,21333,Memory 
+psyc6338.001.17s,psyc,6338,PSYC 6338,21221,Functional Neuroanatomy 
+psyc6395.001.17s,psyc,6395,PSYC 6395,27018,Cognitive Psychology 
+real3305.001.17s,real,3305,REAL 3305,24587,Real Estate Principles 
+real3365.001.17s,real,3365,REAL 3365,24588,Real Estate Finance and Principles 
+real4321.501.17s,real,4321,REAL 4321,24963,Real Estate Law and Contracts 
+real6321.001.17s,real,6321,REAL 6321,24589,Introduction to Real Estate 
+real6322.501.17s,real,6322,REAL 6322,24591,Real Estate Finance and Investment 
+real6323.501.17s,real,6323,REAL 6323,24590,Real Estate Market Analysis and Investment 
+rhet1302.023.17s,rhet,1302,RHET 1302,20189,Rhetoric 
+rhet4302.001.17s,rhet,4302,RHET 4302,26996,Advanced Writing and Research 
+rmis3370.001.17s,rmis,3370,RMIS 3370,25250,Principles of Risk Management and Insurance 
+rmis4332.501.17s,rmis,4332,RMIS 4332,25193,Commercial Property Risk Management and Insurance 
+rmis4333.501.17s,rmis,4333,RMIS 4333,27425,Business Risk Management 
+rmis4334.501.17s,rmis,4334,RMIS 4334,27427,Insurance Law and Contracts 
+sci5332.501.17s,sci,5332,SCI 5332,25919,Conceptual Physics II: Particles and Systems 
+sci5338.501.17s,sci,5338,SCI 5338,27835,Conceptual Chemistry: The Atom and the Bridge from Physics to Biology 
+se3162.052.17s,se,3162,SE 3162,27852,Professional Responsibility in Computer Science and Software Engineering 
+se3306.001.17s,se,3306,SE 3306,22231,Mathematical Foundations of Software Engineering 
+se3340.502.17s,se,3340,SE 3340,22499,Computer Architecture 
+se3341.002.17s,se,3341,SE 3341,22918,Probability and Statistics in Computer Science and Software Engineering 
+se3345.005.17s,se,3345,SE 3345,27399,Data Structures and Introduction to Algorithmic Analysis 
+se3354.003.17s,se,3354,SE 3354,23077,Software Engineering 
+se3376.0w1.17s,se,3376,SE 3376,22828,C/C++ Programming in a UNIX Environment 
+se4347.001.17s,se,4347,SE 4347,22300,Database Systems 
+se4348.002.17s,se,4348,SE 4348,22510,Operating Systems Concepts 
+se4351.001.17s,se,4351,SE 4351,23079,Requirements Engineering 
+se4352.001.17s,se,4352,SE 4352,22228,Software Architecture and Design 
+se4367.001.17s,se,4367,SE 4367,22233,"Software Testing, Verification, Validation and Quality Assurance "
+se4381.001.17s,se,4381,SE 4381,22229,Software Project Planning and Management 
+se4485.001.17s,se,4485,SE 4485,22230,Software Engineering Project 
+se4v95.501.17s,se,4v95,SE 4v95,23244,Undergraduate Topics in Software Engineering 
+se6301.004.17s,se,6301,SE 6301,22603,Special Topics in Software Engineering 
+se6329.001.17s,se,6329,SE 6329,27706,Object-Oriented Software Engineering 
+se6359.501.17s,se,6359,SE 6359,27787,Object-Oriented Analysis and Design 
+se6360.003.17s,se,6360,SE 6360,22780,Database Design 
+se6361.001.17s,se,6361,SE 6361,22038,Advanced Requirements Engineering 
+se6367.001.17s,se,6367,SE 6367,23227,"Software Testing, Validation and Verification "
+se6387.001.17s,se,6387,SE 6387,27715,Advanced Software Engineering Project 
+se6388.501.17s,se,6388,SE 6388,22039,Software Project Planning and Management 
+se7301.002.17s,se,7301,SE 7301,27586,Recent Advances in Computing 
+smed5302.501.17s,smed,5302,SMED 5302,26047,Teaching and Learning of Science and Mathematics 
+smed5304.501.17s,smed,5304,SMED 5304,26261,Research Methods in Science and Mathematics 
+smed6v98.501.17s,smed,6v98,SMED 6v98,26077,Thesis Research 
+soc1301.pac.17s,soc,1301,SOC 1301,23848,Introduction to Sociology 
+soc2300.001.17s,soc,2300,SOC 2300,23962,Introduction to Gender Studies 
+soc2303.001.17s,soc,2303,SOC 2303,27094,"Culture, Media and Society "
+soc2305.0w1.17s,soc,2305,SOC 2305,23991,Individual and Society 
+soc2320.0w1.17s,soc,2320,SOC 2320,23990,Contemporary Social Issues 
+soc3305.001.17s,soc,3305,SOC 3305,23948,Applied Data Analysis 
+soc3315.pac.17s,soc,3315,SOC 3315,26933,Socio-Behavioral Sciences for Medicine 
+soc3325.0w1.17s,soc,3325,SOC 3325,27095,Race and Ethnicity 
+soc3333.001.17s,soc,3333,SOC 3333,27685,Religion in Society 
+soc3352.0w1.17s,soc,3352,SOC 3352,23836,"Sex, Gender and Society "
+soc3379.001.17s,soc,3379,SOC 3379,27372,Diversity in the Public Sector 
+soc3381.001.17s,soc,3381,SOC 3381,27686,Field Research Methods 
+soc4306.001.17s,soc,4306,SOC 4306,27098,Advanced Sociological Research 
+soc4357.001.17s,soc,4357,SOC 4357,27097,"Drugs, Alcohol and Society "
+soc4384.001.17s,soc,4384,SOC 4384,23837,Social Epidemiology 
+soc4385.hn1.17s,soc,4385,SOC 4385,23957,Health and Illness in Global and Cross-national Perspective 
+soc6315.501.17s,soc,6315,SOC 6315,27059,Evaluating Program and Organizational Performance 
+soc6356.001.17s,soc,6356,SOC 6356,27579,Health and Illness 
+soc6381.501.17s,soc,6381,SOC 6381,23851,Nonprofit Management 
+soc6386.501.17s,soc,6386,SOC 6386,27373,Diversity Management 
+span1311.002.17s,span,1311,SPAN 1311,20457,Beginning Spanish I 
+span1312.001.17s,span,1312,SPAN 1312,20043,Beginning Spanish II 
+span2311.001.17s,span,2311,SPAN 2311,20328,Intermediate Spanish I 
+span2312.001.17s,span,2312,SPAN 2312,20337,Intermediate Spanish II 
+span2341.001.17s,span,2341,SPAN 2341,20546,Medical Spanish 
+span3365.001.17s,span,3365,SPAN 3365,27664,Advanced Spanish I 
+span4364.001.17s,span,4364,SPAN 4364,20456,Advanced Spanish Culture 
+spau3301.001.17s,spau,3301,SPAU 3301,21222,Communication Disorders 
+spau3303.001.17s,spau,3303,SPAU 3303,21223,Normal Language Development 
+spau3304.001.17s,spau,3304,SPAU 3304,21224,Communication Sciences 
+spau3305.001.17s,spau,3305,SPAU 3305,21404,Language and Literacy Development 
+spau3340.001.17s,spau,3340,SPAU 3340,21225,Articulation Disorders 
+spau3341.001.17s,spau,3341,SPAU 3341,21226,Audiology 
+spau3342.501.17s,spau,3342,SPAU 3342,21265,Exceptional Children 
+spau3343.001.17s,spau,3343,SPAU 3343,21235,Phonetics 
+spau3344.001.17s,spau,3344,SPAU 3344,21227,Anatomy and Physiology of Speech and Hearing 
+spau3345.001.17s,spau,3345,SPAU 3345,21228,Neural Basis of Communication 
+spau3388.001.17s,spau,3388,SPAU 3388,21229,Clinical Observation in Speech-Language Pathology 
+spau3390.002.17s,spau,3390,SPAU 3390,21277,Clinical Practicum in Speech-Language Pathology 
+spau4308.001.17s,spau,4308,SPAU 4308,21263,Language Disorders in Children 
+spau4342.001.17s,spau,4342,SPAU 4342,21231,Assessment Procedures in Speech-Language Pathology 
+spau4367.001.17s,spau,4367,SPAU 4367,21326,Development and Design of Therapeutic Resources 
+spau4375.001.17s,spau,4375,SPAU 4375,21493,Honors Seminar 
+spau4393.001.17s,spau,4393,SPAU 4393,21331,Language in Culture and Society 
+spau4396.001.17s,spau,4396,SPAU 4396,21232,Internship 
+stat1342.001.17s,stat,1342,STAT 1342,26011,Statistical Decision Making 
+stat2332.001.17s,stat,2332,STAT 2332,26483,Introductory Statistics for Life Sciences 
+stat3341.002.17s,stat,3341,STAT 3341,26337,Probability and Statistics in Computer Science and Software Engineering 
+stat3355.001.17s,stat,3355,STAT 3355,26465,Data Analysis for Statisticians and Actuaries 
+stat3360.004.17s,stat,3360,STAT 3360,26816,Probability and Statistics for Management and Economics 
+stat4352.501.17s,stat,4352,STAT 4352,25888,Mathematical Statistics 
+stat4382.001.17s,stat,4382,STAT 4382,25938,Stochastic Processes 
+stat5352.501.17s,stat,5352,STAT 5352,26793,Probability and Statistics II 
+stat6313.001.17s,stat,6313,STAT 6313,26438,Statistical Methods for Data Science 
+stat6326.001.17s,stat,6326,STAT 6326,26796,Sampling Theory 
+stat6338.001.17s,stat,6338,STAT 6338,26795,Advanced Statistical Methods II 
+stat6339.001.17s,stat,6339,STAT 6339,26485,Linear Statistical Models 
+stat6390.501.17s,stat,6390,STAT 6390,27562,Topics in Statistics - Level 6 
+stat7338.501.17s,stat,7338,STAT 7338,26798,Time Series Modeling and Filtering 
+syse6322.001.17s,syse,6322,SYSE 6322,26852,Digital Control of Automotive Powertrain Systems 
+syse6324.001.17s,syse,6324,SYSE 6324,22999,Nonlinear Systems 
+sysm6301.501.17s,sysm,6301,SYSM 6301,23024,"Systems Engineering, Architecture and Design "
+sysm6302.001.17s,sysm,6302,SYSM 6302,23184,Dynamics of Complex Networks and Systems 
+sysm6303.003.17s,sysm,6303,SYSM 6303,24935,Quantitative Introduction to Risk and Uncertainty in Business 
+sysm6306.001.17s,sysm,6306,SYSM 6306,22669,Engineering Systems: Modeling and Simulation 
+sysm6307.001.17s,sysm,6307,SYSM 6307,22527,Linear Systems 
+sysm6309.001.17s,sysm,6309,SYSM 6309,22374,Advanced Requirements Engineering 
+sysm6310.001.17s,sysm,6310,SYSM 6310,23228,"Software Testing, Validation and Verification "
+sysm6311.001.17s,sysm,6311,SYSM 6311,24436,Systems Project Management in Engineering and Operations 
+sysm6312.503.17s,sysm,6312,SYSM 6312,25251,Systems Financial Management 
+sysm6313.001.17s,sysm,6313,SYSM 6313,24440,Systems Negotiation and Dispute Resolution 
+sysm6318.502.17s,sysm,6318,SYSM 6318,26931,Marketing Management 
+sysm6319.001.17s,sysm,6319,SYSM 6319,24739,Business Economics 
+sysm6321.001.17s,sysm,6321,SYSM 6321,27401,Financial Engineering 
+sysm6325.501.17s,sysm,6325,SYSM 6325,23002,Requirements Development and Integration for Complex Systems 
+sysm6332.501.17s,sysm,6332,SYSM 6332,24740,Technology and New Product Development 
+sysm6333.501.17s,sysm,6333,SYSM 6333,24741,Systems Organizational Behavior 
+sysm6334.001.17s,sysm,6334,SYSM 6334,25197,Systems Operations Management 
+sysm6335.001.17s,sysm,6335,SYSM 6335,27368,Organizing for Business Analytics: A Systems Approach 
+sysm6337.001.17s,sysm,6337,SYSM 6337,26963,Accounting for Managers 
+te1202.002.17s,te,1202,TE 1202,27355,Introduction to Electrical Engineering II 
+te1337.001.17s,te,1337,TE 1337,22576,Computer Science I 
+te2305.506.17s,te,2305,TE 2305,27389,Discrete Mathematics for Computing I 
+te2336.501.17s,te,2336,TE 2336,22635,Computer Science II 
+te3101.101.17s,te,3101,TE 3101,22444,Electrical Network Analysis Laboratory 
+te3102.106.17s,te,3102,TE 3102,27083,Signals and Systems Laboratory 
+te3150.101.17s,te,3150,TE 3150,22588,Communications Systems Laboratory 
+te3301.001.17s,te,3301,TE 3301,22468,Electrical Network Analysis 
+te3302.001.17s,te,3302,TE 3302,22474,Signals and Systems 
+te3340.503.17s,te,3340,TE 3340,27395,Computer Architecture 
+te3345.002.17s,te,3345,TE 3345,22535,Data Structures and Introduction to Algorithmic Analysis 
+te3350.501.17s,te,3350,TE 3350,22592,Communications Systems 
+te4141.108.17s,te,4141,TE 4141,23345,Digital Systems Laboratory 
+te4341.001.17s,te,4341,TE 4341,22587,Digital Logic and Computer Design 
+te4348.001.17s,te,4348,TE 4348,23221,Operating Systems Concepts 
+te4360.001.17s,te,4360,TE 4360,22594,Digital Communications 
+te4367.501.17s,te,4367,TE 4367,22698,Telecommunication Networks 
+te4388.502.17s,te,4388,TE 4388,22480,Senior Design Project I 
+te4389.501.17s,te,4389,TE 4389,22486,Senior Design Project II 
+te4390.002.17s,te,4390,TE 4390,22514,Computer Networks 
+te6378.001.17s,te,6378,TE 6378,22532,Advanced Operating Systems 
+te6385.001.17s,te,6385,TE 6385,22539,Algorithmic Aspects of Telecommunication Networks 
+univ1010.051.17s,univ,1010,UNIV 1010,26750,Freshman Seminar 
+univ2014.pa1.17s,univ,2014,UNIV 2014,26747,Portfolio Seminar for UT PACT Students 
+univ2020.051.17s,univ,2020,UNIV 2020,26751,Core Curriculum Assessment 
+univ2v96.001.17s,univ,2v96,UNIV 2v96,26749,Special Topics I 
+univ4074.001.17s,univ,4074,UNIV 4074,26752,Student Leadership 

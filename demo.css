@@ -1,0 +1,60 @@
+body {
+  font: 300 14px 'Helvetica Neue', Helvetica;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+b {
+  font-weight:700;
+}
+
+.node rect {
+  stroke: #333;
+  fill: #fff;
+}
+
+.edgePath path {
+  stroke: #333;
+  fill: #333;
+  stroke-width: 1.5px;
+}
+
+div {
+  width: 1400px
+  margin: 0 auto;
+}
+
+svg {
+  border: 3px solid black
+}
+
+button {
+  border:2px solid black;
+  background:#fff;
+  padding: 8px;
+  margin: 0 3px;
+  transition:background-color 0.3s ease;
+  font-size:24px;
+}
+
+button:hover {
+  background:#bbb;
+  transition:background-color 0.3s ease;
+}
+
+button:disabled {
+  border:2px solid white;
+}
+
+button:disabled:hover {
+  background:#fff;
+}
+
+span.light {
+  font-weight:normal;
+}
