@@ -55,6 +55,18 @@ button:disabled:hover {
   background:#fff;
 }
 
-span.light {
+.light {
   font-weight:normal;
+}
+
+.ta-r {
+  width: 1400px;
+  margin: 0 auto;
+  padding:0;
+  border: 2px solid white;
+}
+
+.ta-r p{
+  text-align:right;
+  margin:0 0 1em 0;
 }
